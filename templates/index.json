@@ -1,3 +1,12 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "slideshow_q3U4Jn": {
@@ -108,10 +117,12 @@
         "header_layout": "horizontal",
         "heading": "",
         "heading_size": "h1",
+        "heading_highlight_style": "none",
         "limit": 8,
         "columns": 4,
         "column_gap": "extra-small",
         "row_gap": "inherit",
+        "grid_layout": "standard",
         "pcard_image_ratio": "",
         "columns_mobile": "2",
         "swipe_on_mobile": false,
@@ -177,28 +188,32 @@
           "type": "featured_collection",
           "settings": {
             "collection": "",
-            "title": ""
+            "title": "",
+            "description": ""
           }
         },
         "featured_collection_H3VHEr": {
           "type": "featured_collection",
           "settings": {
             "collection": "",
-            "title": ""
+            "title": "",
+            "description": ""
           }
         },
         "featured_collection_ytHAXL": {
           "type": "featured_collection",
           "settings": {
             "collection": "",
-            "title": ""
+            "title": "",
+            "description": ""
           }
         },
         "featured_collection_inyzwk": {
           "type": "featured_collection",
           "settings": {
             "collection": "",
-            "title": ""
+            "title": "",
+            "description": ""
           }
         }
       },
@@ -214,10 +229,18 @@
         "subheading": "Add a tagline",
         "heading": "Collections",
         "heading_size": "h1",
-        "description": "<p>This area is used to describe your collection's details.<\/p>",
+        "heading_highlight_style": "none",
+        "description": "<p>This area is used to describe your collection's details.</p>",
         "text_size": "text-base",
+        "card_color_inherited": false,
+        "show_product_count": true,
+        "show_icon": true,
+        "card_style": "",
+        "card_image_ratio": "adapt",
+        "content_alignment": "left",
         "columns_desktop": 3,
         "column_gap": "medium",
+        "row_gap": "medium",
         "enable_slider": true,
         "columns_mobile": "1",
         "swipe_on_mobile": true,
@@ -267,6 +290,7 @@
         "color_scheme": "",
         "heading": "Build Your Own Basket",
         "heading_size": "h1",
+        "heading_highlight_style": "none",
         "subheading": "Bundle & save",
         "description": "",
         "padding_top": 100,
@@ -283,11 +307,13 @@
           "settings": {
             "image_width": "extra-large",
             "title": "",
-            "text": "<p>“Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.”<\/p>",
+            "heading_size": "h4",
+            "text": "<p>“Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.”</p>",
             "text_size": "text-lg",
             "button_label": "",
             "button_style": "btn--underline",
-            "button_link": ""
+            "button_link": "",
+            "mobile_layout": "inherit"
           }
         },
         "column_m4RcYP": {
@@ -295,11 +321,13 @@
           "settings": {
             "image_width": "extra-large",
             "title": "",
-            "text": "<p>“Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.”<\/p>",
+            "heading_size": "h4",
+            "text": "<p>“Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.”</p>",
             "text_size": "text-lg",
             "button_label": "",
             "button_style": "btn--underline",
-            "button_link": ""
+            "button_link": "",
+            "mobile_layout": "inherit"
           }
         },
         "column_bRpkxq": {
@@ -307,11 +335,13 @@
           "settings": {
             "image_width": "extra-large",
             "title": "",
-            "text": "<p>“Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.”<\/p>",
+            "heading_size": "h4",
+            "text": "<p>“Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.”</p>",
             "text_size": "text-lg",
             "button_label": "",
             "button_style": "btn--underline",
-            "button_link": ""
+            "button_link": "",
+            "mobile_layout": "inherit"
           }
         }
       },
@@ -324,6 +354,7 @@
         "color_scheme": "",
         "heading": "Multicolumn",
         "heading_size": "h1",
+        "heading_highlight_style": "none",
         "subheading": "",
         "description": "",
         "text_size": "text-base",
@@ -349,7 +380,7 @@
             "heading": "Image card",
             "heading_size": "hd2",
             "subheading": "Add a tagline",
-            "description": "<p>Tell your brand's story through images<\/p>",
+            "description": "<p>Tell your brand's story through images</p>",
             "description_size": "text-lg",
             "button_label": "Button label",
             "button_style": "btn--primary",
@@ -369,7 +400,7 @@
             "heading": "Image card",
             "heading_size": "hd2",
             "subheading": "Add a tagline",
-            "description": "<p>Tell your brand's story through images<\/p>",
+            "description": "<p>Tell your brand's story through images</p>",
             "description_size": "text-lg",
             "button_label": "Button label",
             "button_style": "btn--primary",
@@ -389,7 +420,7 @@
             "heading": "Image card",
             "heading_size": "hd2",
             "subheading": "Add a tagline",
-            "description": "<p>Tell your brand's story through images<\/p>",
+            "description": "<p>Tell your brand's story through images</p>",
             "description_size": "text-lg",
             "button_label": "Button label",
             "button_style": "btn--primary",
@@ -412,8 +443,11 @@
         "subheading": "",
         "heading": "Card images",
         "heading_size": "h1",
+        "heading_highlight_style": "none",
         "description": "",
+        "description_size": "text-base",
         "image_ratio": "adapt",
+        "enable_equal_height": false,
         "columns_desktop": 2,
         "column_gap": "extra-small",
         "enable_slider": true,
@@ -429,35 +463,45 @@
         "feature_item_VbCwL3": {
           "type": "feature_item",
           "settings": {
+            "color_scheme": "",
             "icon": "check",
+            "icon_style": "btn--secondary",
             "text": "Feature item"
           }
         },
         "feature_item_NzxQGa": {
           "type": "feature_item",
           "settings": {
+            "color_scheme": "",
             "icon": "check",
+            "icon_style": "btn--secondary",
             "text": "Feature item"
           }
         },
         "feature_item_yyNV9A": {
           "type": "feature_item",
           "settings": {
+            "color_scheme": "",
             "icon": "check",
+            "icon_style": "btn--secondary",
             "text": "Feature item"
           }
         },
         "feature_item_gBgLft": {
           "type": "feature_item",
           "settings": {
+            "color_scheme": "",
             "icon": "check",
+            "icon_style": "btn--secondary",
             "text": "Feature item"
           }
         },
         "feature_item_R8A8eX": {
           "type": "feature_item",
           "settings": {
+            "color_scheme": "",
             "icon": "check",
+            "icon_style": "btn--secondary",
             "text": "Feature item"
           }
         }
@@ -474,6 +518,7 @@
         "subheading": "",
         "heading": "",
         "heading_size": "h2",
+        "heading_highlight_style": "none",
         "description": "",
         "text_size": "text-base",
         "item_alignment": "center",
@@ -492,7 +537,8 @@
           "type": "heading",
           "settings": {
             "heading": "Talk about your brand",
-            "heading_size": "h1"
+            "heading_size": "h1",
+            "heading_highlight_style": "none"
           }
         },
         "button_PeGbeL": {
@@ -528,6 +574,7 @@
             "image_overlay_opacity": 0,
             "heading": "Image card",
             "heading_size": "h1",
+            "heading_highlight_style": "none",
             "subheading": "Add a tagline",
             "description": "",
             "button_label": "Button label",
@@ -548,6 +595,9 @@
           "type": "collections",
           "settings": {
             "collection_list": [],
+            "hide_collection_name": false,
+            "button_label": "",
+            "button_style": "btn--primary",
             "limit": 4,
             "columns": 2,
             "column_gap": "extra-small",
@@ -572,6 +622,7 @@
         "enable_sticky_column": true,
         "heading": "",
         "heading_size": "h1",
+        "heading_highlight_style": "none",
         "subheading": "",
         "description": "",
         "column_gap": "large",
@@ -597,13 +648,14 @@
           "type": "heading",
           "settings": {
             "heading": "Talk about your brand",
-            "heading_size": "hd1"
+            "heading_size": "hd1",
+            "heading_highlight_style": "none"
           }
         },
         "text_A3Dahr": {
           "type": "text",
           "settings": {
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
             "text_size": "text-lg"
           }
         },
@@ -644,12 +696,14 @@
         "color_scheme": "",
         "heading": "Products showcase",
         "heading_size": "h2",
+        "heading_highlight_style": "none",
         "products": [],
         "pcard_title_size": "hd2",
         "pcard_description_display": "3-lines",
         "pcard_description_size": "text-lg",
-        "pcard_image_ratio": "3\/4",
+        "pcard_image_ratio": "3/4",
         "pcard_show_vendor": true,
+        "pcard_show_type": false,
         "pcard_button_label": "Button label",
         "padding_top": 100,
         "padding_bottom": 100,
@@ -665,7 +719,8 @@
           "settings": {
             "image_height": 80,
             "image_rounded": true,
-            "image_link": ""
+            "image_link": "",
+            "image_height_mobile": 90
           }
         },
         "text_eJYFM7": {
@@ -677,7 +732,10 @@
             "font_weight": "font-body",
             "font_style": "normal",
             "letter_spacing": 0,
-            "text_style": "normal"
+            "text_opacity": 100,
+            "text_style": "normal",
+            "use_custom_color": false,
+            "custom_color": "#000000"
           }
         },
         "image_i3axe6": {
@@ -685,7 +743,8 @@
           "settings": {
             "image_height": 80,
             "image_rounded": true,
-            "image_link": ""
+            "image_link": "",
+            "image_height_mobile": 90
           }
         },
         "text_QcbBQ9": {
@@ -697,7 +756,10 @@
             "font_weight": "font-body",
             "font_style": "normal",
             "letter_spacing": 0,
-            "text_style": "normal"
+            "text_opacity": 100,
+            "text_style": "normal",
+            "use_custom_color": false,
+            "custom_color": "#000000"
           }
         },
         "image_rMjhMM": {
@@ -705,7 +767,8 @@
           "settings": {
             "image_height": 80,
             "image_rounded": true,
-            "image_link": ""
+            "image_link": "",
+            "image_height_mobile": 90
           }
         },
         "text_qrqedj": {
@@ -717,7 +780,10 @@
             "font_weight": "font-body",
             "font_style": "normal",
             "letter_spacing": 0,
-            "text_style": "normal"
+            "text_opacity": 100,
+            "text_style": "normal",
+            "use_custom_color": false,
+            "custom_color": "#000000"
           }
         },
         "image_9EAm3A": {
@@ -725,7 +791,8 @@
           "settings": {
             "image_height": 80,
             "image_rounded": true,
-            "image_link": ""
+            "image_link": "",
+            "image_height_mobile": 90
           }
         },
         "text_K7hiEY": {
@@ -737,7 +804,10 @@
             "font_weight": "font-body",
             "font_style": "normal",
             "letter_spacing": 0,
-            "text_style": "normal"
+            "text_opacity": 100,
+            "text_style": "normal",
+            "use_custom_color": false,
+            "custom_color": "#000000"
           }
         }
       },
@@ -772,7 +842,7 @@
           "type": "tab",
           "settings": {
             "title": "Example title",
-            "description": "<p>Use this section to promote products that are on sale or part of a special promotion by prominently and attractively showcasing selected items.<\/p>",
+            "description": "<p>Use this section to promote products that are on sale or part of a special promotion by prominently and attractively showcasing selected items.</p>",
             "products": [],
             "collection": ""
           }
@@ -781,7 +851,7 @@
           "type": "tab",
           "settings": {
             "title": "Example title",
-            "description": "<p>Use this section to promote products that are on sale or part of a special promotion by prominently and attractively showcasing selected items.<\/p>",
+            "description": "<p>Use this section to promote products that are on sale or part of a special promotion by prominently and attractively showcasing selected items.</p>",
             "products": [],
             "collection": ""
           }
@@ -790,7 +860,7 @@
           "type": "tab",
           "settings": {
             "title": "Example title",
-            "description": "<p>Use this section to promote products that are on sale or part of a special promotion by prominently and attractively showcasing selected items.<\/p>",
+            "description": "<p>Use this section to promote products that are on sale or part of a special promotion by prominently and attractively showcasing selected items.</p>",
             "products": [],
             "collection": ""
           }
@@ -799,7 +869,7 @@
           "type": "tab",
           "settings": {
             "title": "Example title",
-            "description": "<p>Use this section to promote products that are on sale or part of a special promotion by prominently and attractively showcasing selected items.<\/p>",
+            "description": "<p>Use this section to promote products that are on sale or part of a special promotion by prominently and attractively showcasing selected items.</p>",
             "products": [],
             "collection": ""
           }
@@ -813,14 +883,17 @@
       ],
       "settings": {
         "color_scheme": "",
+        "enable_video_autoplay": true,
         "heading": "Featured products tab",
         "heading_size": "h1",
+        "heading_highlight_style": "none",
         "subheading": "Add a tagline",
         "description": "",
+        "description_size": "text-base",
         "limit": 4,
         "column_gap": "medium",
         "row_gap": "inherit",
-        "pcard_image_ratio": "3\/4",
+        "pcard_image_ratio": "3/4",
         "pcard_thumbnail_ratio": "",
         "swipe_on_mobile": true,
         "padding_top": 100,
@@ -835,54 +908,60 @@
         "testimonial_dhi3Xf": {
           "type": "testimonial",
           "settings": {
-            "text": "<p>Add customer reviews and testimonials to showcase your store’s happy customers.<\/p>",
+            "text": "<p>Add customer reviews and testimonials to showcase your store’s happy customers.</p>",
             "author": "Author's name",
             "bio": "",
+            "product": "",
             "icon": "none"
           }
         },
         "testimonial_D7Mq7i": {
           "type": "testimonial",
           "settings": {
-            "text": "<p>Add customer reviews and testimonials to showcase your store’s happy customers.<\/p>",
+            "text": "<p>Add customer reviews and testimonials to showcase your store’s happy customers.</p>",
             "author": "Author's name",
             "bio": "",
+            "product": "",
             "icon": "none"
           }
         },
         "testimonial_33tAjm": {
           "type": "testimonial",
           "settings": {
-            "text": "<p>Add customer reviews and testimonials to showcase your store’s happy customers.<\/p>",
+            "text": "<p>Add customer reviews and testimonials to showcase your store’s happy customers.</p>",
             "author": "Author's name",
             "bio": "",
+            "product": "",
             "icon": "none"
           }
         },
         "testimonial_dDRMwy": {
           "type": "testimonial",
           "settings": {
-            "text": "<p>Add customer reviews and testimonials to showcase your store’s happy customers.<\/p>",
+            "text": "<p>Add customer reviews and testimonials to showcase your store’s happy customers.</p>",
             "author": "Author's name",
             "bio": "",
+            "product": "",
             "icon": "none"
           }
         },
         "testimonial_RgfDDw": {
           "type": "testimonial",
           "settings": {
-            "text": "<p>Add customer reviews and testimonials to showcase your store’s happy customers.<\/p>",
+            "text": "<p>Add customer reviews and testimonials to showcase your store’s happy customers.</p>",
             "author": "Author's name",
             "bio": "",
+            "product": "",
             "icon": "none"
           }
         },
         "testimonial_abi6JN": {
           "type": "testimonial",
           "settings": {
-            "text": "<p>Add customer reviews and testimonials to showcase your store’s happy customers.<\/p>",
+            "text": "<p>Add customer reviews and testimonials to showcase your store’s happy customers.</p>",
             "author": "Author's name",
             "bio": "",
+            "product": "",
             "icon": "none"
           }
         }
@@ -899,6 +978,7 @@
         "color_scheme": "scheme-2",
         "heading": "Testimonials",
         "heading_size": "h2",
+        "heading_highlight_style": "none",
         "subheading": "",
         "description": "",
         "text_size": "text-base",
@@ -923,7 +1003,7 @@
           "settings": {
             "icon": "none",
             "heading": "Collapsible tab heading",
-            "content": "<p>Fill in the text content of the collapsible item here. You can provide details and explanation for the question here.<\/p>",
+            "content": "<p>Fill in the text content of the collapsible item here. You can provide details and explanation for the question here.</p>",
             "custom_liquid": "",
             "page": "",
             "open": true
@@ -934,7 +1014,7 @@
           "settings": {
             "icon": "none",
             "heading": "Collapsible tab heading",
-            "content": "<p>Fill in the text content of the collapsible item here. You can provide details and explanation for the question here.<\/p>",
+            "content": "<p>Fill in the text content of the collapsible item here. You can provide details and explanation for the question here.</p>",
             "custom_liquid": "",
             "page": "",
             "open": false
@@ -945,7 +1025,7 @@
           "settings": {
             "icon": "none",
             "heading": "Collapsible tab heading",
-            "content": "<p>Fill in the text content of the collapsible item here. You can provide details and explanation for the question here.<\/p>",
+            "content": "<p>Fill in the text content of the collapsible item here. You can provide details and explanation for the question here.</p>",
             "custom_liquid": "",
             "page": "",
             "open": false
@@ -956,7 +1036,7 @@
           "settings": {
             "icon": "none",
             "heading": "Collapsible tab heading",
-            "content": "<p>Fill in the text content of the collapsible item here. You can provide details and explanation for the question here.<\/p>",
+            "content": "<p>Fill in the text content of the collapsible item here. You can provide details and explanation for the question here.</p>",
             "custom_liquid": "",
             "page": "",
             "open": false
@@ -998,8 +1078,10 @@
         "header_layout": "standing-column",
         "heading": "Collapsible tabs",
         "heading_size": "h2",
+        "heading_highlight_style": "none",
         "subheading": "",
-        "description": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p><p>Share information about your brand with your customers. <\/p>",
+        "description": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.</p><p>Share information about your brand with your customers. </p>",
+        "text_size": "text-base",
         "button_label": "Button label",
         "button_link": "",
         "button_style": "btn--primary",
@@ -1009,6 +1091,7 @@
         "item_color_scheme": "scheme-1",
         "item_heading_font": "heading",
         "item_heading_size": "h5",
+        "item_icon_size": "extra-large",
         "padding_top": 60,
         "padding_bottom": 100,
         "show_section_divider": false,
@@ -1022,7 +1105,8 @@
           "type": "heading",
           "settings": {
             "heading": "Talk about your brand",
-            "heading_size": "h1"
+            "heading_size": "h1",
+            "heading_highlight_style": "none"
           }
         },
         "button_jYDXnF": {
@@ -1058,6 +1142,7 @@
             "image_overlay_opacity": 0,
             "heading": "Image card",
             "heading_size": "h2",
+            "heading_highlight_style": "none",
             "subheading": "",
             "description": "",
             "button_label": "Button label",
@@ -1082,6 +1167,7 @@
             "image_overlay_opacity": 0,
             "heading": "Image card",
             "heading_size": "h2",
+            "heading_highlight_style": "none",
             "subheading": "",
             "description": "",
             "button_label": "Button label",
@@ -1106,6 +1192,7 @@
             "image_overlay_opacity": 0,
             "heading": "Image card",
             "heading_size": "h2",
+            "heading_highlight_style": "none",
             "subheading": "",
             "description": "",
             "button_label": "Button label",
@@ -1134,6 +1221,7 @@
         "enable_sticky_column": false,
         "heading": "",
         "heading_size": "h1",
+        "heading_highlight_style": "none",
         "subheading": "",
         "description": "",
         "column_gap": "medium",
@@ -1142,6 +1230,69 @@
         "columns_mobile": "1",
         "padding_top": 60,
         "padding_bottom": 100,
+        "show_section_divider": false,
+        "divider_width": "fixed"
+      }
+    },
+    "lookbook_cards_dc6Un3": {
+      "type": "lookbook-cards",
+      "blocks": {
+        "product_list_WM7cDg": {
+          "type": "product_list",
+          "settings": {
+            "product_list": [
+              "decor-1"
+            ],
+            "image": "shopify://shop_images/parallax-element_1.png",
+            "heading": "",
+            "heading_size": "h4"
+          }
+        },
+        "product_list_64fqgx": {
+          "type": "product_list",
+          "settings": {
+            "product_list": [],
+            "heading": "Shop this look",
+            "heading_size": "h5"
+          }
+        },
+        "product_list_H4LXrQ": {
+          "type": "product_list",
+          "settings": {
+            "product_list": [],
+            "heading": "Shop this look",
+            "heading_size": "h5"
+          }
+        }
+      },
+      "block_order": [
+        "product_list_WM7cDg",
+        "product_list_64fqgx",
+        "product_list_H4LXrQ"
+      ],
+      "name": "t:sections.lookbook-cards.name",
+      "settings": {
+        "color_scheme": "",
+        "header_layout": "vertical",
+        "heading": "Lookbook cards",
+        "heading_size": "h1",
+        "heading_highlight_style": "none",
+        "subheading": "",
+        "description": "",
+        "description_size": "text-base",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "btn--primary",
+        "show_button_on_section_heading": true,
+        "image_width": 148,
+        "columns": 3,
+        "column_gap": "medium",
+        "row_gap": "inherit",
+        "enable_slider": true,
+        "pcard_image_ratio": "",
+        "swipe_on_mobile": true,
+        "padding_top": 50,
+        "padding_bottom": 50,
         "show_section_divider": false,
         "divider_width": "fixed"
       }
@@ -1165,6 +1316,7 @@
     "testimonials_8JHr3L",
     "collapsible_tabs_KNKLiF",
     "rich_text_J3XnPC",
-    "custom_content_dxQmWd"
+    "custom_content_dxQmWd",
+    "lookbook_cards_dc6Un3"
   ]
 }
