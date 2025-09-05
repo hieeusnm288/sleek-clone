@@ -230,30 +230,35 @@
         "image_fJywi9": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/pexels-photo-977296.jpg",
             "custom_classes": ""
           }
         },
         "image_JBTUGA": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/Product_image_with_text_jpg.png",
             "custom_classes": ""
           }
         },
         "image_aba9Q7": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/pexels-photo-2387754.jpg",
             "custom_classes": ""
           }
         },
         "image_i9X9GK": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/pexels-photo-112811.jpg",
             "custom_classes": ""
           }
         },
         "image_QfdMiX": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/pexels-photo-10567361.jpg",
             "custom_classes": ""
           }
         }
