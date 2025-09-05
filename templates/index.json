@@ -223,11 +223,71 @@
         "show_section_divider": false,
         "divider_width": "fixed"
       }
+    },
+    "layered_images_with_text_PtzGqV": {
+      "type": "layered-images-with-text",
+      "blocks": {
+        "image_fJywi9": {
+          "type": "image",
+          "settings": {
+            "custom_classes": ""
+          }
+        },
+        "image_JBTUGA": {
+          "type": "image",
+          "settings": {
+            "custom_classes": ""
+          }
+        },
+        "image_aba9Q7": {
+          "type": "image",
+          "settings": {
+            "custom_classes": ""
+          }
+        },
+        "image_i9X9GK": {
+          "type": "image",
+          "settings": {
+            "custom_classes": ""
+          }
+        },
+        "image_QfdMiX": {
+          "type": "image",
+          "settings": {
+            "custom_classes": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_fJywi9",
+        "image_JBTUGA",
+        "image_aba9Q7",
+        "image_i9X9GK",
+        "image_QfdMiX"
+      ],
+      "name": "t:sections.layered-images-with-text.name",
+      "settings": {
+        "color_scheme": "scheme-2",
+        "heading": "We onInstagram",
+        "heading_size": "hd3",
+        "heading_highlight_style": "none",
+        "subheading": "",
+        "description": "",
+        "description_size": "text-base",
+        "button_label": "@gemelointeriors",
+        "button_link": "https://www.instagram.com/",
+        "button_style": "btn--primary",
+        "padding_top": 50,
+        "padding_bottom": 50,
+        "show_section_divider": false,
+        "divider_width": "fixed"
+      }
     }
   },
   "order": [
     "slideshow_q3U4Jn",
     "image_with_text_MgddA8",
-    "lookbook_banner_dwCHVG"
+    "lookbook_banner_dwCHVG",
+    "layered_images_with_text_PtzGqV"
   ]
 }
