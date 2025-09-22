@@ -69,10 +69,10 @@
           "type": "slide",
           "settings": {
             "color_scheme": "",
-            "background": "shopify://shop_images/premium_photo-1683141025879-8e25fd85b9ff.jpg",
+            "background_mobile": "shopify://shop_images/premium_photo-1683141025879-8e25fd85b9ff.jpg",
             "image_overlay_opacity": 0,
-            "content_position": "middle-center",
-            "text_alignment": "center",
+            "content_position": "top-left",
+            "text_alignment": "left",
             "title": "Image slide",
             "heading_size": "hd1",
             "subheading": "",
@@ -118,24 +118,44 @@
             "button_link": "",
             "button_style": "btn--primary"
           }
+        },
+        "video_zU7gNJ": {
+          "type": "video",
+          "settings": {
+            "color_scheme": "scheme-1",
+            "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+            "video_description": "",
+            "image_overlay_opacity": 0,
+            "content_position": "middle-center",
+            "text_alignment": "center",
+            "title": "Video slide",
+            "heading_size": "hd1",
+            "subheading": "",
+            "description": "<p>Tell your brand's story through images</p>",
+            "description_size": "text-base",
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style": "btn--primary"
+          }
         }
       },
       "block_order": [
         "slide_9Fwd6j",
         "slide_BCmcAf",
-        "slide_zTWn8F"
+        "slide_zTWn8F",
+        "video_zU7gNJ"
       ],
       "name": "t:sections.slideshow.name",
       "settings": {
         "container": "full",
-        "layout": "centered",
+        "layout": "standard",
         "slide_height": "large",
         "show_dots": true,
         "autoplay": false,
         "autoplay_delay": 3,
-        "controls_position": "bottom",
-        "show_text_below": false,
-        "text_alignment_mobile": "right",
+        "controls_position": "below",
+        "show_text_below": true,
+        "text_alignment_mobile": "left",
         "accessibility_info": "Slideshow about our brand"
       }
     }
