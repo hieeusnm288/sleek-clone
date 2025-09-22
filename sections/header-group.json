@@ -18,7 +18,7 @@
           "type": "text",
           "settings": {
             "text": "TELL CUSTOMERS ABOUT A PROMOTION",
-            "text_link": "",
+            "text_link": "shopify://collections",
             "text_size": "text-base",
             "font_weight": "font-heading",
             "font_style": "normal",
