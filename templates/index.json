@@ -9,99 +9,18 @@
  */
 {
   "sections": {
-    "featured_collection_QVkAJB": {
-      "type": "featured-collection",
-      "name": "t:sections.featured-collection.presets.name",
-      "settings": {
-        "color_scheme": "scheme-1",
-        "header_layout": "vertical",
-        "heading": "Featured collection",
-        "heading_size": "h6",
-        "heading_highlight_style": "underline",
-        "subheading": "4566",
-        "description": "<p>456456456</p>",
-        "text_size": "text-base",
-        "show_collection_description": false,
-        "collection": "seating",
-        "limit": 8,
-        "columns": 4,
-        "column_gap": "extra-small",
-        "row_gap": "extra-small",
-        "grid_layout": "standard",
-        "enable_slider": true,
-        "controls_position": "inside",
-        "pcard_image_ratio": "1/1",
-        "columns_mobile": "1",
-        "swipe_on_mobile": true,
-        "show_all_button_on_top": false,
-        "button_label": "",
-        "button_style": "btn--primary",
-        "padding_top": 50,
-        "padding_bottom": 50,
-        "show_section_divider": false,
-        "divider_width": "fixed"
-      }
-    },
     "collection_list_bez843": {
       "type": "collection-list",
       "blocks": {
-        "featured_collection_8czyq6": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "",
-            "title": "",
-            "description": ""
-          }
-        },
-        "featured_collection_Ekyp3A": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "",
-            "title": "",
-            "description": ""
-          }
-        },
-        "featured_collection_wnQAaK": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "",
-            "title": "",
-            "description": ""
-          }
-        },
-        "featured_collection_teGUxX": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "",
-            "title": "",
-            "description": ""
-          }
-        },
-        "featured_collection_i4QiQD": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "",
-            "title": "",
-            "description": ""
-          }
-        },
-        "featured_collection_PeQnNa": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "",
-            "title": "",
-            "description": ""
-          }
-        },
-        "featured_collection_pRxECV": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "",
-            "title": "",
-            "description": ""
-          }
-        },
         "featured_collection_nBaccL": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "",
+            "title": "",
+            "description": ""
+          }
+        },
+        "featured_collection_zD3MK3": {
           "type": "featured_collection",
           "settings": {
             "collection": "",
@@ -111,22 +30,16 @@
         }
       },
       "block_order": [
-        "featured_collection_8czyq6",
-        "featured_collection_Ekyp3A",
-        "featured_collection_wnQAaK",
-        "featured_collection_teGUxX",
-        "featured_collection_i4QiQD",
-        "featured_collection_PeQnNa",
-        "featured_collection_pRxECV",
-        "featured_collection_nBaccL"
+        "featured_collection_nBaccL",
+        "featured_collection_zD3MK3"
       ],
       "name": "t:sections.collection-list.name",
       "settings": {
-        "color_scheme": "",
+        "color_scheme": "scheme-1",
         "layout": "standard",
         "subheading": "",
-        "heading": "Collections",
-        "heading_size": "h1",
+        "heading": "",
+        "heading_size": "hd1",
         "heading_highlight_style": "none",
         "description": "",
         "text_size": "text-base",
@@ -150,7 +63,6 @@
     }
   },
   "order": [
-    "featured_collection_QVkAJB",
     "collection_list_bez843"
   ]
 }

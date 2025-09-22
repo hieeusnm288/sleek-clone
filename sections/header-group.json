@@ -67,7 +67,7 @@
       ],
       "settings": {
         "color_scheme": "scheme-inverse",
-        "vertical_alignment": "center",
+        "vertical_alignment": "start",
         "direction": "left",
         "pause_on_hover": false,
         "speed": 0.5,
