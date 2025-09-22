@@ -118,7 +118,7 @@
         "color_scheme": "scheme-1",
         "menu": "main-menu",
         "menu_mobile": "",
-        "header_layout": "center-split",
+        "header_layout": "left-center",
         "sticky_header": "always",
         "menu_trigger": "click",
         "show_sperator_line": true,
