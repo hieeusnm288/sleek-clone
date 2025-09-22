@@ -87,6 +87,7 @@
           "type": "slide",
           "settings": {
             "color_scheme": "",
+            "background": "shopify://shop_images/pexels-photo-967016.jpg",
             "image_overlay_opacity": 0,
             "content_position": "middle-center",
             "text_alignment": "center",
@@ -104,6 +105,7 @@
           "type": "slide",
           "settings": {
             "color_scheme": "",
+            "background": "shopify://shop_images/pexels-photo-2387754.jpg",
             "image_overlay_opacity": 0,
             "content_position": "middle-center",
             "text_alignment": "center",
@@ -126,14 +128,14 @@
       "name": "t:sections.slideshow.name",
       "settings": {
         "container": "full",
-        "layout": "standard",
+        "layout": "centered",
         "slide_height": "large",
         "show_dots": true,
         "autoplay": false,
         "autoplay_delay": 3,
         "controls_position": "bottom",
         "show_text_below": false,
-        "text_alignment_mobile": "center",
+        "text_alignment_mobile": "right",
         "accessibility_info": "Slideshow about our brand"
       }
     }

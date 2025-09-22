@@ -52,22 +52,25 @@
       "blocks": {
         "promotion_banner_cEUW3b": {
           "type": "promotion_banner",
+          "disabled": true,
           "settings": {
-            "menu_title": "footer",
-            "menu_columns": 3,
+            "menu_title": "shop",
+            "menu_columns": 2,
             "promotions_width": 38,
-            "promotion_columns": 1,
+            "promotion_columns": 2,
             "color_scheme_1": "",
+            "promo_image_1": "shopify://shop_images/Product_image_with_text_jpg.png",
             "subheading_1": "",
             "heading_1": "",
             "heading_size_1": "h5",
             "description_1": "",
-            "button_label_1": "",
+            "button_label_1": "313",
             "button_style_1": "btn--primary",
-            "content_position_1": "below",
+            "content_position_1": "top-left",
             "content_alignment_1": "left",
             "promotion_link_1": "",
             "color_scheme_2": "",
+            "promo_image_2": "shopify://shop_images/premium_photo-1683141025879-8e25fd85b9ff.jpg",
             "subheading_2": "",
             "heading_2": "",
             "heading_size_2": "h5",
@@ -108,10 +111,64 @@
             "content_alignment_5": "left",
             "promotion_link_5": ""
           }
+        },
+        "custom_card_FLjYJc": {
+          "type": "custom_card",
+          "disabled": true,
+          "settings": {
+            "menu_title": "shop",
+            "menu_columns": 3,
+            "promotions_width": 38,
+            "promotion_columns": 1,
+            "promo_image_1": "shopify://shop_images/Product_image_with_text_jpg.png",
+            "heading_1": "21312",
+            "heading_size_1": "h5",
+            "description_1": "",
+            "promotion_link_1": "",
+            "heading_2": "",
+            "heading_size_2": "h5",
+            "description_2": "",
+            "promotion_link_2": "",
+            "heading_3": "",
+            "heading_size_3": "h5",
+            "description_3": "",
+            "promotion_link_3": "",
+            "heading_4": "",
+            "heading_size_4": "h5",
+            "description_4": "",
+            "promotion_link_4": "",
+            "heading_5": "",
+            "heading_size_5": "h5",
+            "description_5": "",
+            "promotion_link_5": ""
+          }
+        },
+        "product_list_UYQFTC": {
+          "type": "product_list",
+          "settings": {
+            "menu_title": "shop",
+            "collections": [
+              "seating",
+              "decor",
+              "table"
+            ],
+            "menu_columns": 2,
+            "show_menu_column_divider": true,
+            "promotions_width": 30,
+            "number_of_columns": 1,
+            "product_list": [
+              "lighting-1",
+              "lighting-2",
+              "lighting-3"
+            ],
+            "heading": "Title"
+          }
         }
       },
       "block_order": [
-        "promotion_banner_cEUW3b"
+        "promotion_banner_cEUW3b",
+        "custom_card_FLjYJc",
+        "product_list_UYQFTC"
       ],
       "settings": {
         "container": "fixed",
