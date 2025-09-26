@@ -1122,6 +1122,7 @@
         "tab_qeJKKG",
         "tab_TiizTX"
       ],
+      "disabled": true,
       "name": "t:sections.featured-products-tab.presets.name",
       "settings": {
         "color_scheme": "",
@@ -1138,6 +1139,51 @@
         "pcard_image_ratio": "1/1",
         "pcard_thumbnail_ratio": "",
         "swipe_on_mobile": true,
+        "padding_top": 50,
+        "padding_bottom": 50,
+        "show_section_divider": false,
+        "divider_width": "fixed"
+      }
+    },
+    "highlight_text_with_image_JKfpgw": {
+      "type": "highlight-text-with-image",
+      "blocks": {
+        "image_M4TCgP": {
+          "type": "image",
+          "settings": {
+            "image_link": "",
+            "image_width": 220,
+            "image_width_mobile": 110
+          }
+        },
+        "image_zAJjqT": {
+          "type": "image",
+          "settings": {
+            "image_link": "",
+            "image_width": 220,
+            "image_width_mobile": 110
+          }
+        },
+        "image_LyYPd4": {
+          "type": "image",
+          "settings": {
+            "image_link": "",
+            "image_width": 220,
+            "image_width_mobile": 110
+          }
+        }
+      },
+      "block_order": [
+        "image_M4TCgP",
+        "image_zAJjqT",
+        "image_LyYPd4"
+      ],
+      "name": "t:sections.highlight-text-with-image.name",
+      "settings": {
+        "color_scheme": "",
+        "text": "Highlight products, [img1] a collection, or [img2] images alongside a brand message [img3]",
+        "heading_size": "hd1",
+        "alignment": "center",
         "padding_top": 50,
         "padding_bottom": 50,
         "show_section_divider": false,
@@ -1165,6 +1211,7 @@
     "custom_content_bCcCp3",
     "favorite_products_GPhEx7",
     "feature_list_8cxtEH",
-    "featured_products_tab_3HcpHT"
+    "featured_products_tab_3HcpHT",
+    "highlight_text_with_image_JKfpgw"
   ]
 }
