@@ -1,17 +1,31 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "name": "Overlay group",
   "type": "custom.overlay",
   "sections": {
     "cart-drawer": {
       "type": "cart-drawer",
+      "disabled": true,
       "settings": {
         "show_cart_note": true,
         "show_shipping_rates_calculator": true,
-        "show_free_shipping_goal": true
+        "show_free_shipping_goal": true,
+        "enable_cart_recommendations": true,
+        "cart_recommendations_heading": "You may also like",
+        "cart_recommendations_limit": 3
       }
     },
     "search-drawer": {
       "type": "search-drawer",
+      "disabled": true,
       "settings": {}
     },
     "quick-view": {
@@ -42,7 +56,12 @@
         "variant_picker": {
           "type": "variant_picker",
           "settings": {
-            "picker_type": "button"
+            "picker_type": "button",
+            "swatch_type": "color_swatch",
+            "button_style": "standard",
+            "button_size": 40,
+            "size_title": "Size",
+            "size_chart_from_page": ""
           }
         },
         "buy_buttons": {
@@ -62,6 +81,7 @@
         "variant_picker",
         "buy_buttons"
       ],
+      "disabled": true,
       "settings": {
         "enable_video_looping": true
       }
@@ -85,7 +105,8 @@
         "text": {
           "type": "text",
           "settings": {
-            "text": "<p>Be the first to know about new collections and exclusive offers.<\/p>"
+            "text": "<p>Be the first to know about new collections and exclusive offers.</p>",
+            "text_size": "text-base"
           }
         },
         "form": {
@@ -107,6 +128,7 @@
         "form",
         "socials"
       ],
+      "disabled": true,
       "settings": {
         "enable": true,
         "show_for_homepage_only": true,
