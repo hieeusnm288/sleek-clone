@@ -810,6 +810,7 @@
         "collection_JHgYp6",
         "collection_db4tfL"
       ],
+      "disabled": true,
       "name": "t:sections.collections-slider.name",
       "settings": {
         "color_scheme": "",
@@ -823,6 +824,59 @@
         "slider_position": "left",
         "autoplay": false,
         "autoplay_delay": 3,
+        "padding_top": 50,
+        "padding_bottom": 50,
+        "show_section_divider": false,
+        "divider_width": "fixed"
+      }
+    },
+    "countdown_timer_rJeMD4": {
+      "type": "countdown-timer",
+      "blocks": {
+        "heading_4c8jbV": {
+          "type": "heading",
+          "settings": {
+            "heading": "Sale ends in",
+            "heading_size": "hd2"
+          }
+        },
+        "text_kjCw7T": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Insert the time limit or an encouraging messge of your marketing campaign to create a sense of urgency for your customers.</p>",
+            "text_size": "text-base"
+          }
+        },
+        "timer_rPDHg4": {
+          "type": "timer",
+          "settings": {
+            "time": "2026/08/20 03:45 PM",
+            "style": "number",
+            "number_size": "hd3"
+          }
+        },
+        "button_F8pjTj": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style": "btn--primary"
+          }
+        }
+      },
+      "block_order": [
+        "heading_4c8jbV",
+        "text_kjCw7T",
+        "timer_rPDHg4",
+        "button_F8pjTj"
+      ],
+      "name": "t:sections.countdown-timer.name",
+      "settings": {
+        "container": "full",
+        "color_schema": "",
+        "image_overlay_opacity": 0,
+        "content_alignment": "center",
+        "text_alignment": "center",
         "padding_top": 50,
         "padding_bottom": 50,
         "show_section_divider": false,
@@ -845,6 +899,7 @@
     "collapsible_tabs_hPBkBm",
     "collection_image_showcase_Vp3XAB",
     "collections_showcase_WhjfG6",
-    "collections_slider_HPFaXF"
+    "collections_slider_HPFaXF",
+    "countdown_timer_rJeMD4"
   ]
 }
