@@ -392,6 +392,7 @@
         "image_LF9nrr",
         "image_P9WNN3"
       ],
+      "disabled": true,
       "name": "t:sections.image-comparison.presets.name",
       "settings": {
         "container": "small",
@@ -408,8 +409,420 @@
         "button_style": "btn--primary",
         "direction": "vertical",
         "image_height": "adapt",
-        "image_heading_style": "badge",
+        "image_heading_style": "plain",
         "product": "",
+        "padding_top": 50,
+        "padding_bottom": 50,
+        "show_section_divider": false,
+        "divider_width": "fixed"
+      }
+    },
+    "card_images_CfiKYR": {
+      "type": "card-images",
+      "blocks": {
+        "image_card_MegY3e": {
+          "type": "image_card",
+          "settings": {
+            "color_scheme": "",
+            "image_overlay_opacity": 0,
+            "heading": "Image card",
+            "heading_size": "hd2",
+            "subheading": "",
+            "description": "<p>Tell your brand's story through images</p>",
+            "description_size": "text-lg",
+            "button_label": "Button label",
+            "button_style": "btn--primary",
+            "content_position": "middle-left",
+            "content_alignment": "left",
+            "content_spacing": "large",
+            "card_link": "",
+            "content_position_mobile": "top-center",
+            "content_alignment_mobile": "center"
+          }
+        },
+        "image_card_gTURpN": {
+          "type": "image_card",
+          "settings": {
+            "color_scheme": "",
+            "image_overlay_opacity": 0,
+            "heading": "Image card",
+            "heading_size": "hd2",
+            "subheading": "",
+            "description": "<p>Tell your brand's story through images</p>",
+            "description_size": "text-lg",
+            "button_label": "Button label",
+            "button_style": "btn--primary",
+            "content_position": "middle-left",
+            "content_alignment": "left",
+            "content_spacing": "large",
+            "card_link": "",
+            "content_position_mobile": "top-center",
+            "content_alignment_mobile": "center"
+          }
+        },
+        "image_card_W9remt": {
+          "type": "image_card",
+          "settings": {
+            "color_scheme": "",
+            "image_overlay_opacity": 0,
+            "heading": "Image card",
+            "heading_size": "hd2",
+            "subheading": "",
+            "description": "<p>Tell your brand's story through images</p>",
+            "description_size": "text-lg",
+            "button_label": "Button label",
+            "button_style": "btn--primary",
+            "content_position": "middle-left",
+            "content_alignment": "left",
+            "content_spacing": "large",
+            "card_link": "",
+            "content_position_mobile": "top-center",
+            "content_alignment_mobile": "center"
+          }
+        },
+        "image_card_QmDnKC": {
+          "type": "image_card",
+          "settings": {
+            "color_scheme": "scheme-1",
+            "image_overlay_opacity": 0,
+            "heading": "Image card",
+            "heading_size": "hd2",
+            "subheading": "",
+            "description": "<p>Tell your brand's story through images</p>",
+            "description_size": "text-lg",
+            "button_label": "Button label",
+            "button_style": "btn--primary",
+            "content_position": "middle-left",
+            "content_alignment": "left",
+            "content_spacing": "large",
+            "card_link": "",
+            "content_position_mobile": "top-center",
+            "content_alignment_mobile": "center"
+          }
+        }
+      },
+      "block_order": [
+        "image_card_MegY3e",
+        "image_card_gTURpN",
+        "image_card_W9remt",
+        "image_card_QmDnKC"
+      ],
+      "disabled": true,
+      "name": "t:sections.card-images.name",
+      "settings": {
+        "color_scheme": "",
+        "subheading": "",
+        "heading": "Card images",
+        "heading_size": "h1",
+        "heading_highlight_style": "none",
+        "description": "",
+        "description_size": "text-base",
+        "image_ratio": "adapt",
+        "enable_equal_height": false,
+        "columns_desktop": 3,
+        "column_gap": "extra-small",
+        "enable_slider": false,
+        "padding_top": 50,
+        "padding_bottom": 50,
+        "show_section_divider": false,
+        "divider_width": "fixed"
+      }
+    },
+    "collage_tabs_8actqB": {
+      "type": "collage-tabs",
+      "blocks": {
+        "tab_Tt97VK": {
+          "type": "tab",
+          "settings": {
+            "content_color_scheme": "",
+            "navigation_title": "Tab 1",
+            "heading": "Collage tab heading",
+            "heading_size": "h1",
+            "heading_highlight_style": "none",
+            "subheading": "",
+            "description": "<p>Fill in the text content of the tab item here. You can provide details information tab item here.</p>",
+            "text_size": "text-base",
+            "text_alignment": "center",
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style": "btn--primary"
+          }
+        },
+        "tab_PR38cm": {
+          "type": "tab",
+          "settings": {
+            "content_color_scheme": "scheme-2",
+            "navigation_title": "",
+            "heading": "Collapsible tabs",
+            "heading_size": "h1",
+            "heading_highlight_style": "none",
+            "subheading": "",
+            "description": "",
+            "text_size": "text-base",
+            "text_alignment": "left",
+            "button_label": "",
+            "button_link": "",
+            "button_style": "btn--primary"
+          }
+        }
+      },
+      "block_order": [
+        "tab_Tt97VK",
+        "tab_PR38cm"
+      ],
+      "disabled": true,
+      "name": "t:sections.collage-tabs.presets.name",
+      "settings": {
+        "color_scheme": "",
+        "heading_size": "h4",
+        "desktop_navigation_alignment": "start",
+        "desktop_image_position": "right",
+        "desktop_image_width": 51,
+        "image_aspect_ratio": "adapt",
+        "padding_top": 50,
+        "padding_bottom": 50,
+        "show_section_divider": false,
+        "divider_width": "fixed"
+      }
+    },
+    "collapsible_tabs_hPBkBm": {
+      "type": "collapsible-tabs",
+      "blocks": {
+        "collapsible_item_J9VcAE": {
+          "type": "collapsible_item",
+          "settings": {
+            "icon": "none",
+            "heading": "Collapsible tab heading",
+            "content": "<p>Fill in the text content of the collapsible item here. You can provide details and explanation for the question here.</p>",
+            "custom_liquid": "",
+            "page": "",
+            "open": false
+          }
+        },
+        "collapsible_item_EVK93T": {
+          "type": "collapsible_item",
+          "settings": {
+            "icon": "none",
+            "heading": "Collapsible tab heading",
+            "content": "<p>Fill in the text content of the collapsible item here. You can provide details and explanation for the question here.</p>",
+            "custom_liquid": "",
+            "page": "",
+            "open": false
+          }
+        },
+        "collapsible_item_kABadV": {
+          "type": "collapsible_item",
+          "settings": {
+            "icon": "none",
+            "heading": "Collapsible tab heading",
+            "content": "<p>Fill in the text content of the collapsible item here. You can provide details and explanation for the question here.</p>",
+            "custom_liquid": "",
+            "page": "",
+            "open": false
+          }
+        }
+      },
+      "block_order": [
+        "collapsible_item_J9VcAE",
+        "collapsible_item_EVK93T",
+        "collapsible_item_kABadV"
+      ],
+      "disabled": true,
+      "name": "t:sections.collapsible-tabs.presets.name",
+      "settings": {
+        "container": "fixed",
+        "color_scheme": "",
+        "header_layout": "vertical",
+        "heading": "Collapsible tabs",
+        "heading_size": "h1",
+        "heading_highlight_style": "none",
+        "subheading": "",
+        "description": "",
+        "text_size": "text-base",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "btn--primary",
+        "column_gap": "large",
+        "row_gap": "inherit",
+        "item_style": "standard",
+        "item_color_scheme": "scheme-1",
+        "item_heading_font": "heading",
+        "item_heading_size": "h4",
+        "item_icon_size": "extra-large",
+        "padding_top": 50,
+        "padding_bottom": 50,
+        "show_section_divider": false,
+        "divider_width": "fixed"
+      }
+    },
+    "collection_image_showcase_Vp3XAB": {
+      "type": "collection-image-showcase",
+      "blocks": {
+        "collection_UNfK6X": {
+          "type": "collection",
+          "disabled": true,
+          "settings": {
+            "collection": "",
+            "title": "",
+            "image_1": "shopify://shop_images/pexels-photo-2930894.jpg",
+            "image_2": "shopify://shop_images/pexels-photo-2930894.jpg"
+          }
+        },
+        "collection_hPMrqH": {
+          "type": "collection",
+          "settings": {
+            "collection": "",
+            "title": "",
+            "image_1": "shopify://shop_images/pexels-photo-2930894.jpg",
+            "image_2": "shopify://shop_images/pexels-photo-2930894.jpg",
+            "image_3": "shopify://shop_images/premium_photo-1683141025879-8e25fd85b9ff.jpg"
+          }
+        },
+        "collection_mtEFTb": {
+          "type": "collection",
+          "settings": {
+            "collection": "",
+            "title": "",
+            "image_1": "shopify://shop_images/pexels-photo-2930894.jpg",
+            "image_2": "shopify://shop_images/pexels-photo-2930894.jpg",
+            "image_3": "shopify://shop_images/premium_photo-1683141025879-8e25fd85b9ff.jpg"
+          }
+        },
+        "collection_NttXQV": {
+          "type": "collection",
+          "disabled": true,
+          "settings": {
+            "collection": "",
+            "title": "",
+            "image_1": "shopify://shop_images/premium_photo-1683141025879-8e25fd85b9ff.jpg",
+            "image_2": "shopify://shop_images/pexels-photo-2930894.jpg",
+            "image_3": "shopify://shop_images/pexels-photo-977296.jpg"
+          }
+        }
+      },
+      "block_order": [
+        "collection_UNfK6X",
+        "collection_hPMrqH",
+        "collection_mtEFTb",
+        "collection_NttXQV"
+      ],
+      "disabled": true,
+      "name": "t:sections.collection-image-showcase.name",
+      "settings": {
+        "color_scheme": "",
+        "heading": "Collection image showcase",
+        "heading_size": "h1",
+        "heading_highlight_style": "none",
+        "subheading": "",
+        "description": "",
+        "text_size": "text-base",
+        "swipe_on_mobile": false,
+        "padding_top": 50,
+        "padding_bottom": 50,
+        "show_section_divider": false,
+        "divider_width": "fixed"
+      }
+    },
+    "collections_showcase_WhjfG6": {
+      "type": "collections-showcase",
+      "blocks": {
+        "collection_KB8YeC": {
+          "type": "collection",
+          "settings": {
+            "collection": "",
+            "title": "",
+            "button_label": "Shop now",
+            "button_style": "btn--primary"
+          }
+        }
+      },
+      "block_order": [
+        "collection_KB8YeC"
+      ],
+      "disabled": true,
+      "name": "t:sections.collections-showcase.name",
+      "settings": {
+        "container": "full",
+        "color_scheme": "",
+        "heading": "Collections showcase",
+        "heading_size": "h1",
+        "heading_highlight_style": "none",
+        "subheading": "",
+        "tab_color_scheme": "",
+        "image_position": "right",
+        "image_ratio": "adapt",
+        "image_overlay_opacity": 30,
+        "collection_heading_size": "h1",
+        "products_to_display": 3,
+        "pcard_image_ratio": "adapt",
+        "padding_top": 50,
+        "padding_bottom": 50,
+        "show_section_divider": false,
+        "divider_width": "fixed"
+      }
+    },
+    "collections_slider_HPFaXF": {
+      "type": "collections-slider",
+      "blocks": {
+        "collection_BjnPW9": {
+          "type": "collection",
+          "settings": {
+            "color_scheme": "",
+            "collection": "seating",
+            "title": "",
+            "title_size": "h4",
+            "description": "",
+            "text_size": "text-base",
+            "button_label": "",
+            "button_style": "btn--underline"
+          }
+        },
+        "collection_JHgYp6": {
+          "type": "collection",
+          "settings": {
+            "color_scheme": "",
+            "collection": "table",
+            "title": "",
+            "title_size": "h4",
+            "description": "",
+            "text_size": "text-base",
+            "button_label": "",
+            "button_style": "btn--underline"
+          }
+        },
+        "collection_db4tfL": {
+          "type": "collection",
+          "settings": {
+            "color_scheme": "",
+            "collection": "decor",
+            "image": "shopify://shop_images/Product_image_with_text_jpg.png",
+            "title": "",
+            "title_size": "h4",
+            "description": "",
+            "text_size": "text-base",
+            "button_label": "",
+            "button_style": "btn--underline"
+          }
+        }
+      },
+      "block_order": [
+        "collection_BjnPW9",
+        "collection_JHgYp6",
+        "collection_db4tfL"
+      ],
+      "name": "t:sections.collections-slider.name",
+      "settings": {
+        "color_scheme": "",
+        "use_color_scheme_in_container": false,
+        "show_product_count": true,
+        "heading": "Collections slider",
+        "heading_size": "h1",
+        "heading_highlight_style": "none",
+        "subheading": "",
+        "image_ratio": "4/3",
+        "slider_position": "left",
+        "autoplay": false,
+        "autoplay_delay": 3,
         "padding_top": 50,
         "padding_bottom": 50,
         "show_section_divider": false,
@@ -426,6 +839,12 @@
     "video_VKpKT6",
     "featured_blog_iiWiQb",
     "custom_liquid_zRbtw3",
-    "image_comparison_F3BbGw"
+    "image_comparison_F3BbGw",
+    "card_images_CfiKYR",
+    "collage_tabs_8actqB",
+    "collapsible_tabs_hPBkBm",
+    "collection_image_showcase_Vp3XAB",
+    "collections_showcase_WhjfG6",
+    "collections_slider_HPFaXF"
   ]
 }
