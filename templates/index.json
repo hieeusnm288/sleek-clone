@@ -1067,6 +1067,7 @@
         "feature_item_NgQFiB",
         "feature_item_pRnRt8"
       ],
+      "disabled": true,
       "name": "Feature list",
       "settings": {
         "color_scheme": "",
@@ -1079,6 +1080,64 @@
         "item_alignment": "left",
         "icon_size": "extra-small",
         "swipe_on_mobile": false,
+        "padding_top": 50,
+        "padding_bottom": 50,
+        "show_section_divider": false,
+        "divider_width": "fixed"
+      }
+    },
+    "featured_products_tab_3HcpHT": {
+      "type": "featured-products-tab",
+      "blocks": {
+        "tab_w8bWYM": {
+          "type": "tab",
+          "settings": {
+            "title": "Product list 1",
+            "description": "",
+            "products": [],
+            "collection": ""
+          }
+        },
+        "tab_qeJKKG": {
+          "type": "tab",
+          "settings": {
+            "title": "Product list 2",
+            "description": "",
+            "products": [],
+            "collection": ""
+          }
+        },
+        "tab_TiizTX": {
+          "type": "tab",
+          "settings": {
+            "title": "Product list 3",
+            "description": "",
+            "products": [],
+            "collection": ""
+          }
+        }
+      },
+      "block_order": [
+        "tab_w8bWYM",
+        "tab_qeJKKG",
+        "tab_TiizTX"
+      ],
+      "name": "t:sections.featured-products-tab.presets.name",
+      "settings": {
+        "color_scheme": "",
+        "enable_video_autoplay": true,
+        "heading": "Featured products tab",
+        "heading_size": "h1",
+        "heading_highlight_style": "none",
+        "subheading": "",
+        "description": "",
+        "description_size": "text-base",
+        "limit": 4,
+        "column_gap": "medium",
+        "row_gap": "inherit",
+        "pcard_image_ratio": "3/4",
+        "pcard_thumbnail_ratio": "",
+        "swipe_on_mobile": true,
         "padding_top": 50,
         "padding_bottom": 50,
         "show_section_divider": false,
@@ -1105,6 +1164,7 @@
     "countdown_timer_rJeMD4",
     "custom_content_bCcCp3",
     "favorite_products_GPhEx7",
-    "feature_list_8cxtEH"
+    "feature_list_8cxtEH",
+    "featured_products_tab_3HcpHT"
   ]
 }
