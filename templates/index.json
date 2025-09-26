@@ -886,6 +886,7 @@
     },
     "custom_content_bCcCp3": {
       "type": "custom-content",
+      "disabled": true,
       "name": "t:sections.custom-content.name",
       "settings": {
         "container": "fixed",
@@ -900,6 +901,69 @@
         "row_gap": "large",
         "swipe_on_mobile": false,
         "columns_mobile": "1",
+        "padding_top": 50,
+        "padding_bottom": 50,
+        "show_section_divider": false,
+        "divider_width": "fixed"
+      }
+    },
+    "favorite_products_GPhEx7": {
+      "type": "favorite-products",
+      "blocks": {
+        "product_NwnHfT": {
+          "type": "product",
+          "settings": {
+            "product": "",
+            "text": "<p>Add customer reviews and testimonials to showcase your store’s happy customers.</p>",
+            "author": "Author's name",
+            "bio": "Bio"
+          }
+        },
+        "product_PUJBKy": {
+          "type": "product",
+          "disabled": true,
+          "settings": {
+            "product": "",
+            "text": "<p>Add customer reviews and testimonials to showcase your store’s happy customers.</p>",
+            "author": "Author's name",
+            "bio": ""
+          }
+        },
+        "product_9kPXgn": {
+          "type": "product",
+          "disabled": true,
+          "settings": {
+            "product": "",
+            "text": "<p>Add customer reviews and testimonials to showcase your store’s happy customers.</p>",
+            "author": "Author's name",
+            "bio": ""
+          }
+        },
+        "product_Wmhk7g": {
+          "type": "product",
+          "disabled": true,
+          "settings": {
+            "product": "",
+            "text": "<p>Add customer reviews and testimonials to showcase your store’s happy customers.</p>",
+            "author": "Author's name",
+            "bio": ""
+          }
+        }
+      },
+      "block_order": [
+        "product_NwnHfT",
+        "product_PUJBKy",
+        "product_9kPXgn",
+        "product_Wmhk7g"
+      ],
+      "name": "t:sections.favorite-products.name",
+      "settings": {
+        "color_scheme": "",
+        "heading": "Favorite products",
+        "heading_size": "h1",
+        "heading_highlight_style": "none",
+        "pcard_image_ratio": "adapt",
+        "image_ratio": "adapt",
         "padding_top": 50,
         "padding_bottom": 50,
         "show_section_divider": false,
@@ -924,6 +988,7 @@
     "collections_showcase_WhjfG6",
     "collections_slider_HPFaXF",
     "countdown_timer_rJeMD4",
-    "custom_content_bCcCp3"
+    "custom_content_bCcCp3",
+    "favorite_products_GPhEx7"
   ]
 }
