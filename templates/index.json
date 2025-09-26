@@ -813,7 +813,7 @@
       "name": "t:sections.collections-slider.name",
       "settings": {
         "color_scheme": "",
-        "use_color_scheme_in_container": false,
+        "use_color_scheme_in_container": true,
         "show_product_count": true,
         "heading": "Collections slider",
         "heading_size": "h1",
