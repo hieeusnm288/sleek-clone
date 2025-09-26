@@ -921,7 +921,6 @@
         },
         "product_PUJBKy": {
           "type": "product",
-          "disabled": true,
           "settings": {
             "product": "",
             "text": "<p>Add customer reviews and testimonials to showcase your store’s happy customers.</p>",
