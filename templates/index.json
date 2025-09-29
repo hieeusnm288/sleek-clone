@@ -181,6 +181,7 @@
         "product_7GFBkX",
         "product_4BhxHx"
       ],
+      "disabled": true,
       "name": "t:sections.lookbook-slider.presets.name",
       "settings": {
         "color_scheme": "",
@@ -201,11 +202,47 @@
         "show_section_divider": false,
         "divider_width": "fixed"
       }
+    },
+    "media_with_collection_fnHyrc": {
+      "type": "media-with-collection",
+      "blocks": {
+        "image_9xrPCj": {
+          "type": "image",
+          "settings": {
+            "image_ratio": "3/4"
+          }
+        }
+      },
+      "block_order": [
+        "image_9xrPCj"
+      ],
+      "name": "t:sections.media-with-collection.presets.name",
+      "settings": {
+        "color_scheme": "",
+        "heading": "Media with collection",
+        "heading_size": "h1",
+        "heading_highlight_style": "none",
+        "subheading": "",
+        "description": "",
+        "description_size": "text-base",
+        "collection": "",
+        "limit": 4,
+        "columns": "2",
+        "media_position": "left",
+        "product_image_ratio": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "padding_top": 50,
+        "padding_bottom": 50,
+        "show_section_divider": false,
+        "divider_width": "fixed"
+      }
     }
   },
   "order": [
     "lookbook_banner_9kh7kY",
     "lookbook_cards_dnzy8U",
-    "lookbook_slider_bNjMpY"
+    "lookbook_slider_bNjMpY",
+    "media_with_collection_fnHyrc"
   ]
 }
