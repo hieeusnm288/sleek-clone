@@ -389,7 +389,7 @@
         "grid_layout": "standard",
         "pcard_image_ratio": "",
         "columns_mobile": "2",
-        "swipe_on_mobile": true,
+        "swipe_on_mobile": false,
         "show_all_button_on_top": false,
         "button_label": "",
         "button_link": "",
