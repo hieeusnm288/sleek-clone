@@ -318,6 +318,7 @@
     },
     "product_list_with_details_6Kj6HM": {
       "type": "product-list-with-details",
+      "disabled": true,
       "name": "t:sections.product-list-with-details.name",
       "settings": {
         "color_scheme": "",
