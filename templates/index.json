@@ -388,7 +388,7 @@
         "row_gap": "inherit",
         "grid_layout": "standard",
         "pcard_image_ratio": "",
-        "columns_mobile": "1",
+        "columns_mobile": "2",
         "swipe_on_mobile": true,
         "show_all_button_on_top": false,
         "button_label": "",
