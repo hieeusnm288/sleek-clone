@@ -382,7 +382,7 @@
         "heading": "Product tabs",
         "heading_size": "h1",
         "heading_highlight_style": "none",
-        "limit": 4,
+        "limit": 8,
         "columns": 4,
         "column_gap": "medium",
         "row_gap": "inherit",
