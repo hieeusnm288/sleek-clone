@@ -375,6 +375,7 @@
         "tab_GzBtfK",
         "tab_ENYJpY"
       ],
+      "disabled": true,
       "name": "t:sections.product-tabs.presets.name",
       "settings": {
         "color_scheme": "",
@@ -400,6 +401,56 @@
         "show_section_divider": false,
         "divider_width": "fixed"
       }
+    },
+    "products_bundle_ExWNqA": {
+      "type": "products-bundle",
+      "blocks": {
+        "product_6xUXmn": {
+          "type": "product",
+          "settings": {
+            "product": "",
+            "color_scheme": "",
+            "horizontal_position": 30,
+            "vertical_position": 32
+          }
+        },
+        "product_tVXhEr": {
+          "type": "product",
+          "settings": {
+            "product": "",
+            "color_scheme": "",
+            "horizontal_position": 38,
+            "vertical_position": 60
+          }
+        },
+        "product_N4tRGz": {
+          "type": "product",
+          "settings": {
+            "product": "",
+            "color_scheme": "",
+            "horizontal_position": 65,
+            "vertical_position": 45
+          }
+        }
+      },
+      "block_order": [
+        "product_6xUXmn",
+        "product_tVXhEr",
+        "product_N4tRGz"
+      ],
+      "name": "t:sections.products-bundle.name",
+      "settings": {
+        "color_scheme": "",
+        "heading": "Build Your Own Basket",
+        "heading_size": "h1",
+        "heading_highlight_style": "none",
+        "subheading": "Bundle & save",
+        "description": "",
+        "padding_top": 50,
+        "padding_bottom": 50,
+        "show_section_divider": false,
+        "divider_width": "fixed"
+      }
     }
   },
   "order": [
@@ -409,6 +460,7 @@
     "media_with_collection_fnHyrc",
     "press_ffCijM",
     "product_list_with_details_6Kj6HM",
-    "product_tabs_iNHUzB"
+    "product_tabs_iNHUzB",
+    "products_bundle_ExWNqA"
   ]
 }
