@@ -259,6 +259,7 @@
         "press_j6tkt4": {
           "type": "press",
           "settings": {
+            "image": "shopify://shop_images/pexels-photo-977296.jpg",
             "text": "You can add detailed text content from various press comments, comprehensive reviews, or extensive customer testimonials here."
           }
         },
