@@ -48,6 +48,7 @@
         "product_gXmCPX",
         "product_QX4MLW"
       ],
+      "disabled": true,
       "name": "t:sections.lookbook-banner.presets.name",
       "settings": {
         "color_scheme": "",
@@ -69,9 +70,86 @@
         "show_section_divider": false,
         "divider_width": "fixed"
       }
+    },
+    "lookbook_cards_dnzy8U": {
+      "type": "lookbook-cards",
+      "blocks": {
+        "product_list_tQhKCY": {
+          "type": "product_list",
+          "settings": {
+            "product_list": [
+              "decor-1"
+            ],
+            "image": "shopify://shop_images/pexels-photo-2930894.jpg",
+            "heading": "Shop this look",
+            "heading_size": "h5"
+          }
+        },
+        "product_list_pegqak": {
+          "type": "product_list",
+          "settings": {
+            "product_list": [
+              "decor-1"
+            ],
+            "image": "shopify://shop_images/pexels-photo-2930894.jpg",
+            "heading": "Shop this look",
+            "heading_size": "h5"
+          }
+        },
+        "product_list_wiPtgX": {
+          "type": "product_list",
+          "settings": {
+            "product_list": [],
+            "heading": "Shop this look",
+            "heading_size": "h5"
+          }
+        },
+        "product_list_dEUBrK": {
+          "type": "product_list",
+          "settings": {
+            "product_list": [],
+            "heading": "Shop this look",
+            "heading_size": "h5"
+          }
+        }
+      },
+      "block_order": [
+        "product_list_tQhKCY",
+        "product_list_pegqak",
+        "product_list_wiPtgX",
+        "product_list_dEUBrK"
+      ],
+      "name": "t:sections.lookbook-cards.name",
+      "settings": {
+        "color_scheme": "",
+        "header_layout": "vertical",
+        "heading": "Lookbook cards",
+        "heading_size": "h1",
+        "heading_highlight_style": "none",
+        "subheading": "",
+        "description": "",
+        "description_size": "text-base",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "btn--primary",
+        "show_button_on_section_heading": true,
+        "image": "shopify://shop_images/premium_photo-1683141025879-8e25fd85b9ff.jpg",
+        "image_width": 200,
+        "columns": 3,
+        "column_gap": "medium",
+        "row_gap": "inherit",
+        "enable_slider": true,
+        "pcard_image_ratio": "4/3",
+        "swipe_on_mobile": true,
+        "padding_top": 50,
+        "padding_bottom": 50,
+        "show_section_divider": false,
+        "divider_width": "fixed"
+      }
     }
   },
   "order": [
-    "lookbook_banner_9kh7kY"
+    "lookbook_banner_9kh7kY",
+    "lookbook_cards_dnzy8U"
   ]
 }
