@@ -192,7 +192,7 @@
         "description": "",
         "description_size": "text-base",
         "image_aspect_ratio": "3/4",
-        "image_position": "left",
+        "image_position": "right",
         "annotation_color": "dark",
         "product_image_ratio": "1/1",
         "product_per_slide": "2",
