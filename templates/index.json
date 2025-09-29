@@ -195,7 +195,7 @@
         "image_position": "right",
         "annotation_color": "dark",
         "product_image_ratio": "1/1",
-        "product_per_slide": "2",
+        "product_per_slide": "1",
         "padding_top": 50,
         "padding_bottom": 50,
         "show_section_divider": false,
