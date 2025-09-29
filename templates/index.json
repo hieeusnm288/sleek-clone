@@ -321,7 +321,17 @@
       "name": "t:sections.product-list-with-details.name",
       "settings": {
         "color_scheme": "",
-        "products": [],
+        "products": [
+          "decor-1",
+          "decor-2",
+          "decor-3",
+          "decor-4",
+          "decor-5",
+          "decor-6",
+          "lighting-1",
+          "lighting-2",
+          "lighting-3"
+        ],
         "header_layout": "vertical",
         "heading": "Product list with details",
         "heading_size": "h1",
@@ -332,7 +342,7 @@
         "columns": 3,
         "column_gap": "medium",
         "row_gap": "inherit",
-        "pcard_image_ratio": "",
+        "pcard_image_ratio": "1/1",
         "product_details_color_scheme": "",
         "columns_mobile": "1",
         "swipe_on_mobile": true,
