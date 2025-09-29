@@ -1307,12 +1307,13 @@
         "column_zd43Bt",
         "column_cp6kRY"
       ],
+      "disabled": true,
       "name": "t:sections.image-with-text-columns.presets.name",
       "settings": {
         "color_scheme": "",
         "layout_gap": "medium",
         "content_alignment": "start",
-        "image_position": "image_first",
+        "image_position": "text_first",
         "heading": "Image with text columns",
         "heading_size": "h1",
         "heading_highlight_style": "none",
@@ -1320,14 +1321,68 @@
         "description": "",
         "text_size": "text-base",
         "column_alignment": "left",
-        "columns_desktop": 2,
+        "columns_desktop": 3,
         "column_gap": "large",
-        "columns_mobile": "1",
+        "columns_mobile": "2",
         "swipe_on_mobile": false,
         "padding_top": 50,
         "padding_bottom": 50,
         "show_section_divider": false,
         "divider_width": "fixed"
+      }
+    },
+    "image_with_text_overlay_3nJeJa": {
+      "type": "image-with-text-overlay",
+      "blocks": {
+        "subheading_tiibeF": {
+          "type": "subheading",
+          "settings": {
+            "subheading": "Add a tagline"
+          }
+        },
+        "heading_3jCpty": {
+          "type": "heading",
+          "settings": {
+            "heading": "Image with text overlay",
+            "heading_size": "hd1",
+            "heading_highlight_style": "none"
+          }
+        },
+        "text_LWXf7C": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Use this text to share information about your brand with your customers. <br>Describe a product, share announcements, or welcome customers to your store.</p>",
+            "text_size": "text-base"
+          }
+        },
+        "button_yha6TM": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style": "btn--primary"
+          }
+        }
+      },
+      "block_order": [
+        "subheading_tiibeF",
+        "heading_3jCpty",
+        "text_LWXf7C",
+        "button_yha6TM"
+      ],
+      "name": "t:sections.image-with-text-overlay.name",
+      "settings": {
+        "container": "full",
+        "desktop_height": "extra-medium",
+        "overlay_opacity": 70,
+        "enable_parallax": false,
+        "parallax_direction": "vertical",
+        "color_scheme": "scheme-inverse",
+        "content_position": "top-left",
+        "content_alignment": "left",
+        "mobile_height": "auto",
+        "padding_top": 50,
+        "padding_bottom": 50
       }
     }
   },
@@ -1353,6 +1408,7 @@
     "featured_products_tab_3HcpHT",
     "highlight_text_with_image_JKfpgw",
     "image_gallery_aDNfAQ",
-    "image_width_text_columns_xe4VTB"
+    "image_width_text_columns_xe4VTB",
+    "image_with_text_overlay_3nJeJa"
   ]
 }
