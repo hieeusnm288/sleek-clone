@@ -327,10 +327,7 @@
           "decor-3",
           "decor-4",
           "decor-5",
-          "decor-6",
-          "lighting-1",
-          "lighting-2",
-          "lighting-3"
+          "decor-6"
         ],
         "header_layout": "vertical",
         "heading": "Product list with details",
