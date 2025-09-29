@@ -540,6 +540,7 @@
         "heading_q3cVzL",
         "button_C37TX4"
       ],
+      "disabled": true,
       "name": "t:sections.video-hero.name",
       "settings": {
         "container": "full",
@@ -549,10 +550,58 @@
         "overlay_opacity": 70,
         "enable_parallax": false,
         "parallax_direction": "vertical",
-        "color_scheme": "scheme-1",
+        "color_scheme": "scheme-inverse",
         "content_position": "middle-center",
         "content_alignment": "center",
         "video_mobile_height": "adapt",
+        "padding_top": 50,
+        "padding_bottom": 50,
+        "show_section_divider": false,
+        "divider_width": "fixed"
+      }
+    },
+    "video_with_text_krmNG4": {
+      "type": "video-with-text",
+      "blocks": {
+        "subheading_C74tby": {
+          "type": "subheading",
+          "settings": {
+            "subheading": "Add a tagline"
+          }
+        },
+        "heading_zrCHfN": {
+          "type": "heading",
+          "settings": {
+            "heading": "Talk about your brand",
+            "heading_size": "h1",
+            "heading_highlight_style": "none"
+          }
+        },
+        "text_NbFnEE": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "text_size": "text-base"
+          }
+        }
+      },
+      "block_order": [
+        "subheading_C74tby",
+        "heading_zrCHfN",
+        "text_NbFnEE"
+      ],
+      "name": "t:sections.video-with-text.name",
+      "settings": {
+        "color_scheme": "",
+        "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+        "video_ratio": "4/3",
+        "description": "",
+        "enable_video_autoplay": false,
+        "enable_video_looping": false,
+        "video_placement": "second",
+        "enable_parallax": false,
+        "parallax_direction": "vertical",
+        "text_alignment": "left",
         "padding_top": 50,
         "padding_bottom": 50,
         "show_section_divider": false,
@@ -570,6 +619,7 @@
     "scrolling_promotion_JDj9Qm",
     "store_locator_bcaqdr",
     "testimonials_NXxTT3",
-    "video_hero_CeJJFj"
+    "video_hero_CeJJFj",
+    "video_with_text_krmNG4"
   ]
 }
