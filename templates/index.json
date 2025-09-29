@@ -1279,6 +1279,79 @@
         "show_section_divider": false,
         "divider_width": "fixed"
       }
+    },
+    "image_width_text_columns_xe4VTB": {
+      "type": "image-width-text-columns",
+      "blocks": {
+        "column_XRUNrB": {
+          "type": "column",
+          "settings": {
+            "image_width": "medium",
+            "title": "Column",
+            "heading_size": "h4",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post.<br> Add details on availability, style.</p>",
+            "text_size": "text-base"
+          }
+        },
+        "column_YbVFAF": {
+          "type": "column",
+          "settings": {
+            "image_width": "medium",
+            "title": "Column",
+            "heading_size": "h4",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post.<br> Add details on availability, style.</p>",
+            "text_size": "text-base"
+          }
+        },
+        "column_zd43Bt": {
+          "type": "column",
+          "settings": {
+            "image_width": "medium",
+            "title": "Column",
+            "heading_size": "h4",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post.<br> Add details on availability, style.</p>",
+            "text_size": "text-base"
+          }
+        },
+        "column_cp6kRY": {
+          "type": "column",
+          "settings": {
+            "image_width": "medium",
+            "title": "Column",
+            "heading_size": "h4",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post.<br> Add details on availability, style.</p>",
+            "text_size": "text-base"
+          }
+        }
+      },
+      "block_order": [
+        "column_XRUNrB",
+        "column_YbVFAF",
+        "column_zd43Bt",
+        "column_cp6kRY"
+      ],
+      "name": "t:sections.image-with-text-columns.presets.name",
+      "settings": {
+        "color_scheme": "",
+        "layout_gap": "medium",
+        "content_alignment": "start",
+        "image_position": "image_first",
+        "heading": "Image with text columns",
+        "heading_size": "h1",
+        "heading_highlight_style": "none",
+        "subheading": "Add a tag line",
+        "description": "",
+        "text_size": "text-base",
+        "column_alignment": "left",
+        "columns_desktop": 2,
+        "column_gap": "large",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 50,
+        "padding_bottom": 50,
+        "show_section_divider": false,
+        "divider_width": "fixed"
+      }
     }
   },
   "order": [
@@ -1303,6 +1376,7 @@
     "feature_list_8cxtEH",
     "featured_products_tab_3HcpHT",
     "highlight_text_with_image_JKfpgw",
-    "image_gallery_aDNfAQ"
+    "image_gallery_aDNfAQ",
+    "image_width_text_columns_xe4VTB"
   ]
 }
