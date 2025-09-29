@@ -884,29 +884,6 @@
         "divider_width": "fixed"
       }
     },
-    "custom_content_bCcCp3": {
-      "type": "custom-content",
-      "disabled": true,
-      "name": "t:sections.custom-content.name",
-      "settings": {
-        "container": "fixed",
-        "color_scheme": "",
-        "enable_sticky_column": false,
-        "heading": "Chưa check cái này",
-        "heading_size": "h1",
-        "heading_highlight_style": "none",
-        "subheading": "",
-        "description": "<p>Combine images with text and a stand-out offer</p>",
-        "column_gap": "medium",
-        "row_gap": "large",
-        "swipe_on_mobile": false,
-        "columns_mobile": "1",
-        "padding_top": 50,
-        "padding_bottom": 50,
-        "show_section_divider": false,
-        "divider_width": "fixed"
-      }
-    },
     "favorite_products_GPhEx7": {
       "type": "favorite-products",
       "blocks": {
@@ -1371,7 +1348,6 @@
     "collections_showcase_WhjfG6",
     "collections_slider_HPFaXF",
     "countdown_timer_rJeMD4",
-    "custom_content_bCcCp3",
     "favorite_products_GPhEx7",
     "feature_list_8cxtEH",
     "featured_products_tab_3HcpHT",
