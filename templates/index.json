@@ -342,7 +342,7 @@
         "pcard_image_ratio": "1/1",
         "product_details_color_scheme": "scheme-6",
         "columns_mobile": "2",
-        "swipe_on_mobile": true,
+        "swipe_on_mobile": false,
         "button_label": "Button label",
         "button_link": "",
         "button_style": "btn--primary",
