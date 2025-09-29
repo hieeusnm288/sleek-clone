@@ -140,7 +140,7 @@
         "row_gap": "inherit",
         "enable_slider": false,
         "pcard_image_ratio": "4/3",
-        "swipe_on_mobile": true,
+        "swipe_on_mobile": false,
         "padding_top": 50,
         "padding_bottom": 50,
         "show_section_divider": false,
