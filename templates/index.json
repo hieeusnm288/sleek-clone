@@ -1370,6 +1370,7 @@
         "text_LWXf7C",
         "button_yha6TM"
       ],
+      "disabled": true,
       "name": "t:sections.image-with-text-overlay.name",
       "settings": {
         "container": "full",
@@ -1383,6 +1384,66 @@
         "mobile_height": "auto",
         "padding_top": 50,
         "padding_bottom": 50
+      }
+    },
+    "layered_images_with_text_GnQcnN": {
+      "type": "layered-images-with-text",
+      "blocks": {
+        "image_Jta8cA": {
+          "type": "image",
+          "settings": {
+            "custom_classes": ""
+          }
+        },
+        "image_VCKjmy": {
+          "type": "image",
+          "settings": {
+            "custom_classes": ""
+          }
+        },
+        "image_yxFXfM": {
+          "type": "image",
+          "settings": {
+            "custom_classes": ""
+          }
+        },
+        "image_ENTNee": {
+          "type": "image",
+          "settings": {
+            "custom_classes": ""
+          }
+        },
+        "image_Kk6DNY": {
+          "type": "image",
+          "settings": {
+            "custom_classes": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_Jta8cA",
+        "image_VCKjmy",
+        "image_yxFXfM",
+        "image_ENTNee",
+        "image_Kk6DNY"
+      ],
+      "disabled": true,
+      "name": "t:sections.layered-images-with-text.name",
+      "settings": {
+        "color_scheme": "scheme-inverse",
+        "heading": "Layered images with text",
+        "heading_size": "h1",
+        "heading_highlight_style": "none",
+        "subheading": "",
+        "description": "<p>Tell your brand's story through images</p>",
+        "description_size": "text-base",
+        "button_label": "Button label",
+        "button_link": "",
+        "button_style": "btn--primary",
+        "padding_top": 50,
+        "padding_bottom": 50,
+        "show_section_divider": false,
+        "divider_width": "fixed"
       }
     }
   },
@@ -1409,6 +1470,7 @@
     "highlight_text_with_image_JKfpgw",
     "image_gallery_aDNfAQ",
     "image_width_text_columns_xe4VTB",
-    "image_with_text_overlay_3nJeJa"
+    "image_with_text_overlay_3nJeJa",
+    "layered_images_with_text_GnQcnN"
   ]
 }
