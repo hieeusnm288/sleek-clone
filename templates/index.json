@@ -119,6 +119,7 @@
         "product_list_wiPtgX",
         "product_list_dEUBrK"
       ],
+      "disabled": true,
       "name": "t:sections.lookbook-cards.name",
       "settings": {
         "color_scheme": "",
@@ -146,10 +147,65 @@
         "show_section_divider": false,
         "divider_width": "fixed"
       }
+    },
+    "lookbook_slider_bNjMpY": {
+      "type": "lookbook-slider",
+      "blocks": {
+        "product_fWyfAV": {
+          "type": "product",
+          "settings": {
+            "product": "decor-2",
+            "top": 45,
+            "left": 30
+          }
+        },
+        "product_7GFBkX": {
+          "type": "product",
+          "settings": {
+            "product": "decor-1",
+            "top": 50,
+            "left": 70
+          }
+        },
+        "product_4BhxHx": {
+          "type": "product",
+          "settings": {
+            "product": "decor-3",
+            "top": 62,
+            "left": 43
+          }
+        }
+      },
+      "block_order": [
+        "product_fWyfAV",
+        "product_7GFBkX",
+        "product_4BhxHx"
+      ],
+      "name": "t:sections.lookbook-slider.presets.name",
+      "settings": {
+        "color_scheme": "",
+        "use_color_scheme_in_container": false,
+        "heading": "Shop the look",
+        "heading_size": "h1",
+        "heading_highlight_style": "none",
+        "subheading": "",
+        "description": "",
+        "description_size": "text-base",
+        "image_aspect_ratio": "3/4",
+        "image_position": "left",
+        "annotation_color": "dark",
+        "product_image_ratio": "1/1",
+        "product_per_slide": "2",
+        "padding_top": 50,
+        "padding_bottom": 50,
+        "show_section_divider": false,
+        "divider_width": "fixed"
+      }
     }
   },
   "order": [
     "lookbook_banner_9kh7kY",
-    "lookbook_cards_dnzy8U"
+    "lookbook_cards_dnzy8U",
+    "lookbook_slider_bNjMpY"
   ]
 }
