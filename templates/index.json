@@ -340,7 +340,7 @@
         "column_gap": "medium",
         "row_gap": "inherit",
         "pcard_image_ratio": "1/1",
-        "product_details_color_scheme": "",
+        "product_details_color_scheme": "scheme-6",
         "columns_mobile": "1",
         "swipe_on_mobile": true,
         "button_label": "Button label",
