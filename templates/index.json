@@ -378,7 +378,7 @@
       "name": "t:sections.product-tabs.presets.name",
       "settings": {
         "color_scheme": "",
-        "header_layout": "vertical",
+        "header_layout": "horizontal",
         "heading": "Product tabs",
         "heading_size": "h1",
         "heading_highlight_style": "none",
