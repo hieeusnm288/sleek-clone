@@ -216,6 +216,7 @@
       "block_order": [
         "image_9xrPCj"
       ],
+      "disabled": true,
       "name": "t:sections.media-with-collection.presets.name",
       "settings": {
         "color_scheme": "",
@@ -237,12 +238,88 @@
         "show_section_divider": false,
         "divider_width": "fixed"
       }
+    },
+    "press_ffCijM": {
+      "type": "press",
+      "blocks": {
+        "press_w797rU": {
+          "type": "press",
+          "settings": {
+            "image": "shopify://shop_images/Rectangle_4394.png",
+            "text": "You can add detailed text content from various press comments, comprehensive reviews, or extensive customer testimonials here."
+          }
+        },
+        "press_LQUK8T": {
+          "type": "press",
+          "settings": {
+            "image": "shopify://shop_images/parallax-element.png",
+            "text": "You can add detailed text content from various press comments, comprehensive reviews, or extensive customer testimonials here."
+          }
+        },
+        "press_j6tkt4": {
+          "type": "press",
+          "settings": {
+            "text": "You can add detailed text content from various press comments, comprehensive reviews, or extensive customer testimonials here."
+          }
+        },
+        "press_638CQ3": {
+          "type": "press",
+          "settings": {
+            "text": "You can add detailed text content from various press comments, comprehensive reviews, or extensive customer testimonials here."
+          }
+        },
+        "press_GjRWJP": {
+          "type": "press",
+          "settings": {
+            "text": "You can add detailed text content from various press comments, comprehensive reviews, or extensive customer testimonials here."
+          }
+        },
+        "press_T7KN3X": {
+          "type": "press",
+          "settings": {
+            "text": "You can add detailed text content from various press comments, comprehensive reviews, or extensive customer testimonials here."
+          }
+        },
+        "press_p88iBk": {
+          "type": "press",
+          "settings": {
+            "text": "You can add detailed text content from various press comments, comprehensive reviews, or extensive customer testimonials here."
+          }
+        }
+      },
+      "block_order": [
+        "press_w797rU",
+        "press_LQUK8T",
+        "press_j6tkt4",
+        "press_638CQ3",
+        "press_GjRWJP",
+        "press_T7KN3X",
+        "press_p88iBk"
+      ],
+      "name": "t:sections.press.name",
+      "settings": {
+        "color_scheme": "",
+        "heading": "Press",
+        "heading_size": "h1",
+        "heading_highlight_style": "none",
+        "subheading": "",
+        "description": "",
+        "description_size": "text-base",
+        "text_size": "h4",
+        "image_width": 160,
+        "image_width_mobile": 140,
+        "padding_top": 50,
+        "padding_bottom": 50,
+        "show_section_divider": false,
+        "divider_width": "fixed"
+      }
     }
   },
   "order": [
     "lookbook_banner_9kh7kY",
     "lookbook_cards_dnzy8U",
     "lookbook_slider_bNjMpY",
-    "media_with_collection_fnHyrc"
+    "media_with_collection_fnHyrc",
+    "press_ffCijM"
   ]
 }
