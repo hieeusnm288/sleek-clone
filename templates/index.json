@@ -138,7 +138,7 @@
         "columns": 3,
         "column_gap": "medium",
         "row_gap": "inherit",
-        "enable_slider": true,
+        "enable_slider": false,
         "pcard_image_ratio": "4/3",
         "swipe_on_mobile": true,
         "padding_top": 50,
