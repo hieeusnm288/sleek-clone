@@ -70,6 +70,7 @@
         "menu_DEKGYP",
         "menu_4eCrBB"
       ],
+      "disabled": true,
       "custom_css": [
         ".form-control {--color-border: var(--color-field);}"
       ],
