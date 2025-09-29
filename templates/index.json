@@ -431,12 +431,32 @@
             "horizontal_position": 65,
             "vertical_position": 45
           }
+        },
+        "product_LwJCiw": {
+          "type": "product",
+          "settings": {
+            "product": "",
+            "color_scheme": "",
+            "horizontal_position": 30,
+            "vertical_position": 30
+          }
+        },
+        "product_VTHBFc": {
+          "type": "product",
+          "settings": {
+            "product": "",
+            "color_scheme": "",
+            "horizontal_position": 30,
+            "vertical_position": 30
+          }
         }
       },
       "block_order": [
         "product_6xUXmn",
         "product_tVXhEr",
-        "product_N4tRGz"
+        "product_N4tRGz",
+        "product_LwJCiw",
+        "product_VTHBFc"
       ],
       "name": "t:sections.products-bundle.name",
       "settings": {
