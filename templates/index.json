@@ -228,7 +228,7 @@
         "collection": "",
         "limit": 4,
         "columns": "2",
-        "media_position": "left",
+        "media_position": "right",
         "product_image_ratio": "",
         "columns_mobile": "1",
         "swipe_on_mobile": true,
