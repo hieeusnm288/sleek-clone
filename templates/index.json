@@ -1178,12 +1178,101 @@
         "image_zAJjqT",
         "image_LyYPd4"
       ],
+      "disabled": true,
       "name": "t:sections.highlight-text-with-image.name",
       "settings": {
         "color_scheme": "",
         "text": "Highlight products, [img1] a collection, or [img2] images alongside a brand message [img3]",
         "heading_size": "hd1",
-        "alignment": "center",
+        "alignment": "left",
+        "padding_top": 50,
+        "padding_bottom": 50,
+        "show_section_divider": false,
+        "divider_width": "fixed"
+      }
+    },
+    "image_gallery_aDNfAQ": {
+      "type": "image-gallery",
+      "blocks": {
+        "image_U9wqVp": {
+          "type": "image",
+          "settings": {
+            "link": ""
+          }
+        },
+        "image_6hk3We": {
+          "type": "image",
+          "settings": {
+            "link": ""
+          }
+        },
+        "image_BPxiQL": {
+          "type": "image",
+          "settings": {
+            "link": ""
+          }
+        },
+        "image_ziN9ix": {
+          "type": "image",
+          "settings": {
+            "link": ""
+          }
+        },
+        "image_zDM4wb": {
+          "type": "image",
+          "settings": {
+            "link": ""
+          }
+        },
+        "image_CFyYcF": {
+          "type": "image",
+          "settings": {
+            "link": ""
+          }
+        },
+        "image_WhkGrJ": {
+          "type": "image",
+          "settings": {
+            "link": ""
+          }
+        },
+        "image_DHEfxw": {
+          "type": "image",
+          "settings": {
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_U9wqVp",
+        "image_6hk3We",
+        "image_BPxiQL",
+        "image_ziN9ix",
+        "image_zDM4wb",
+        "image_CFyYcF",
+        "image_WhkGrJ",
+        "image_DHEfxw"
+      ],
+      "name": "t:sections.image-gallery.name",
+      "settings": {
+        "color_scheme": "",
+        "header_layout": "vertical",
+        "heading": "Image gallery",
+        "heading_size": "h1",
+        "heading_highlight_style": "none",
+        "subheading": "",
+        "description": "",
+        "text_size": "text-base",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "btn--primary",
+        "social_media": "none",
+        "columns": 4,
+        "column_gap": "medium",
+        "row_gap": "inherit",
+        "image_ratio": "1/1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
         "padding_top": 50,
         "padding_bottom": 50,
         "show_section_divider": false,
@@ -1212,6 +1301,7 @@
     "favorite_products_GPhEx7",
     "feature_list_8cxtEH",
     "featured_products_tab_3HcpHT",
-    "highlight_text_with_image_JKfpgw"
+    "highlight_text_with_image_JKfpgw",
+    "image_gallery_aDNfAQ"
   ]
 }
