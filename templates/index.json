@@ -402,50 +402,22 @@
         "divider_width": "fixed"
       }
     },
-    "products_bundle_ExWNqA": {
-      "type": "products-bundle",
-      "blocks": {
-        "product_6xUXmn": {
-          "type": "product",
-          "settings": {
-            "product": "",
-            "color_scheme": "",
-            "horizontal_position": 30,
-            "vertical_position": 32
-          }
-        },
-        "product_tVXhEr": {
-          "type": "product",
-          "settings": {
-            "product": "",
-            "color_scheme": "",
-            "horizontal_position": 38,
-            "vertical_position": 60
-          }
-        },
-        "product_N4tRGz": {
-          "type": "product",
-          "settings": {
-            "product": "",
-            "color_scheme": "",
-            "horizontal_position": 65,
-            "vertical_position": 45
-          }
-        }
-      },
-      "block_order": [
-        "product_6xUXmn",
-        "product_tVXhEr",
-        "product_N4tRGz"
-      ],
-      "name": "t:sections.products-bundle.name",
+    "products_showcase_BP7La9": {
+      "type": "products-showcase",
+      "name": "t:sections.products-showcase.presets.name",
       "settings": {
         "color_scheme": "",
-        "heading": "Build Your Own Basket",
-        "heading_size": "h1",
+        "heading": "Products showcase",
+        "heading_size": "h2",
         "heading_highlight_style": "none",
-        "subheading": "Bundle & save",
-        "description": "",
+        "products": [],
+        "pcard_title_size": "h1",
+        "pcard_description_display": "3-lines",
+        "pcard_description_size": "text-lg",
+        "pcard_image_ratio": "",
+        "pcard_show_vendor": false,
+        "pcard_show_type": false,
+        "pcard_button_label": "Shop this product",
         "padding_top": 50,
         "padding_bottom": 50,
         "show_section_divider": false,
@@ -461,6 +433,6 @@
     "press_ffCijM",
     "product_list_with_details_6Kj6HM",
     "product_tabs_iNHUzB",
-    "products_bundle_ExWNqA"
+    "products_showcase_BP7La9"
   ]
 }
