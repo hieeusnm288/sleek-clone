@@ -549,7 +549,7 @@
         "overlay_opacity": 70,
         "enable_parallax": false,
         "parallax_direction": "vertical",
-        "color_scheme": "",
+        "color_scheme": "scheme-1",
         "content_position": "middle-center",
         "content_alignment": "center",
         "video_mobile_height": "adapt",
