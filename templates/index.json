@@ -499,7 +499,7 @@
         "card_layout": "1",
         "columns_desktop": 4,
         "column_gap": "medium",
-        "enable_slider": true,
+        "enable_slider": false,
         "columns_mobile": "1",
         "swipe_on_mobile": true,
         "padding_top": 50,
