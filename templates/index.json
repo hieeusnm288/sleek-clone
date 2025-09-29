@@ -135,7 +135,7 @@
         "show_button_on_section_heading": true,
         "image": "shopify://shop_images/premium_photo-1683141025879-8e25fd85b9ff.jpg",
         "image_width": 200,
-        "columns": 3,
+        "columns": 4,
         "column_gap": "medium",
         "row_gap": "inherit",
         "enable_slider": false,
