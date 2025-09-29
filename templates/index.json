@@ -239,83 +239,6 @@
         "divider_width": "fixed"
       }
     },
-    "press_ffCijM": {
-      "type": "press",
-      "blocks": {
-        "press_w797rU": {
-          "type": "press",
-          "settings": {
-            "image": "shopify://shop_images/Rectangle_4394.png",
-            "text": "You can add detailed text content from various press comments, comprehensive reviews, or extensive customer testimonials here."
-          }
-        },
-        "press_LQUK8T": {
-          "type": "press",
-          "settings": {
-            "image": "shopify://shop_images/parallax-element.png",
-            "text": "You can add detailed text content from various press comments, comprehensive reviews, or extensive customer testimonials here."
-          }
-        },
-        "press_j6tkt4": {
-          "type": "press",
-          "settings": {
-            "image": "shopify://shop_images/pexels-photo-977296.jpg",
-            "text": "You can add detailed text content from various press comments, comprehensive reviews, or extensive customer testimonials here."
-          }
-        },
-        "press_638CQ3": {
-          "type": "press",
-          "settings": {
-            "text": "You can add detailed text content from various press comments, comprehensive reviews, or extensive customer testimonials here."
-          }
-        },
-        "press_GjRWJP": {
-          "type": "press",
-          "settings": {
-            "text": "You can add detailed text content from various press comments, comprehensive reviews, or extensive customer testimonials here."
-          }
-        },
-        "press_T7KN3X": {
-          "type": "press",
-          "settings": {
-            "text": "You can add detailed text content from various press comments, comprehensive reviews, or extensive customer testimonials here."
-          }
-        },
-        "press_p88iBk": {
-          "type": "press",
-          "settings": {
-            "text": "You can add detailed text content from various press comments, comprehensive reviews, or extensive customer testimonials here."
-          }
-        }
-      },
-      "block_order": [
-        "press_w797rU",
-        "press_LQUK8T",
-        "press_j6tkt4",
-        "press_638CQ3",
-        "press_GjRWJP",
-        "press_T7KN3X",
-        "press_p88iBk"
-      ],
-      "disabled": true,
-      "name": "t:sections.press.name",
-      "settings": {
-        "color_scheme": "",
-        "heading": "Press",
-        "heading_size": "h1",
-        "heading_highlight_style": "none",
-        "subheading": "",
-        "description": "",
-        "description_size": "text-sm",
-        "text_size": "h6",
-        "image_width": 300,
-        "image_width_mobile": 140,
-        "padding_top": 50,
-        "padding_bottom": 50,
-        "show_section_divider": false,
-        "divider_width": "fixed"
-      }
-    },
     "product_list_with_details_6Kj6HM": {
       "type": "product-list-with-details",
       "disabled": true,
@@ -353,55 +276,6 @@
         "divider_width": "fixed"
       }
     },
-    "product_tabs_iNHUzB": {
-      "type": "product-tabs",
-      "blocks": {
-        "tab_GzBtfK": {
-          "type": "tab",
-          "settings": {
-            "title": "Tab 1",
-            "collection": ""
-          }
-        },
-        "tab_ENYJpY": {
-          "type": "tab",
-          "settings": {
-            "title": "Tab 2",
-            "collection": ""
-          }
-        }
-      },
-      "block_order": [
-        "tab_GzBtfK",
-        "tab_ENYJpY"
-      ],
-      "disabled": true,
-      "name": "t:sections.product-tabs.presets.name",
-      "settings": {
-        "color_scheme": "",
-        "header_layout": "horizontal",
-        "heading": "Product tabs",
-        "heading_size": "h1",
-        "heading_highlight_style": "none",
-        "limit": 8,
-        "columns": 4,
-        "column_gap": "medium",
-        "row_gap": "inherit",
-        "grid_layout": "standard",
-        "pcard_image_ratio": "",
-        "columns_mobile": "2",
-        "swipe_on_mobile": false,
-        "show_all_button_on_top": false,
-        "button_label": "",
-        "button_link": "",
-        "button_style": "btn--primary",
-        "tabs_nav_style": "design-2",
-        "padding_top": 50,
-        "padding_bottom": 50,
-        "show_section_divider": false,
-        "divider_width": "fixed"
-      }
-    },
     "products_showcase_BP7La9": {
       "type": "products-showcase",
       "disabled": true,
@@ -425,52 +299,50 @@
         "divider_width": "fixed"
       }
     },
-    "scrolling_promotion_EYMq3q": {
+    "scrolling_promotion_JDj9Qm": {
       "type": "scrolling-promotion",
       "blocks": {
-        "image_ck7HWX": {
-          "type": "image",
+        "text_XBVLL3": {
+          "type": "text",
+          "disabled": true,
           "settings": {
-            "image_height": 120,
-            "image_rounded": false,
-            "image_link": "",
-            "image_height_mobile": 40
+            "text": "Welcome to our store",
+            "text_link": "",
+            "text_size": "h2",
+            "font_weight": "font-heading",
+            "font_style": "normal",
+            "letter_spacing": 0,
+            "text_opacity": 100,
+            "text_style": "normal",
+            "use_custom_color": false,
+            "custom_color": "#000000"
           }
         },
-        "image_FpVHtC": {
-          "type": "image",
+        "html_3VUBc3": {
+          "type": "html",
+          "disabled": true,
           "settings": {
-            "image_height": 120,
-            "image_rounded": false,
-            "image_link": "",
-            "image_height_mobile": 90
+            "html": "<p>Custom HTML</p>"
           }
         },
-        "image_TtBVzA": {
-          "type": "image",
+        "collection_4U78Yc": {
+          "type": "collection",
           "settings": {
-            "image_height": 120,
-            "image_rounded": false,
-            "image_link": "",
-            "image_height_mobile": 90
-          }
-        },
-        "image_A7xayV": {
-          "type": "image",
-          "settings": {
-            "image_height": 120,
-            "image_rounded": false,
-            "image_link": "",
-            "image_height_mobile": 90
+            "collection": "",
+            "title": "",
+            "title_size": "h3",
+            "use_custom_width": false,
+            "desktop_width": 340,
+            "mobile_width": 340
           }
         }
       },
       "block_order": [
-        "image_ck7HWX",
-        "image_FpVHtC",
-        "image_TtBVzA",
-        "image_A7xayV"
+        "text_XBVLL3",
+        "html_3VUBc3",
+        "collection_4U78Yc"
       ],
+      "disabled": true,
       "name": "t:sections.scrolling-promotion.presets.name",
       "settings": {
         "color_scheme": "",
@@ -485,6 +357,156 @@
         "show_divider": false,
         "divider_layout": "vertical"
       }
+    },
+    "store_locator_bcaqdr": {
+      "type": "store-locator",
+      "blocks": {
+        "location_DmdY6n": {
+          "type": "location",
+          "settings": {
+            "image_width": 210,
+            "heading": "Store name",
+            "heading_size": "h1",
+            "text": "<p>shop@yourstore.com</p>",
+            "button_label": "Button label",
+            "button_style": "btn--primary",
+            "button_link": ""
+          }
+        },
+        "location_k3chzA": {
+          "type": "location",
+          "settings": {
+            "image_width": 210,
+            "heading": "Store name",
+            "heading_size": "h1",
+            "text": "<p>shop@yourstore.com</p>",
+            "button_label": "Button label",
+            "button_style": "btn--primary",
+            "button_link": ""
+          }
+        },
+        "location_hQUzqN": {
+          "type": "location",
+          "settings": {
+            "image_width": 210,
+            "heading": "Store name",
+            "heading_size": "h1",
+            "text": "<p>shop@yourstore.com</p>",
+            "button_label": "Button label",
+            "button_style": "btn--primary",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "location_DmdY6n",
+        "location_k3chzA",
+        "location_hQUzqN"
+      ],
+      "disabled": true,
+      "custom_css": [],
+      "name": "t:sections.store-locator.presets.name",
+      "settings": {
+        "color_scheme": "",
+        "padding_top": 100,
+        "padding_bottom": 50,
+        "show_section_divider": false,
+        "divider_width": "fixed"
+      }
+    },
+    "testimonials_NXxTT3": {
+      "type": "testimonials",
+      "blocks": {
+        "testimonial_V7reLf": {
+          "type": "testimonial",
+          "settings": {
+            "text": "<p>Add customer reviews and testimonials to showcase your store’s happy customers.</p>",
+            "author": "Author's name",
+            "bio": "",
+            "product": "",
+            "icon": "none"
+          }
+        },
+        "testimonial_cqfUgK": {
+          "type": "testimonial",
+          "settings": {
+            "text": "<p>Add customer reviews and testimonials to showcase your store’s happy customers.</p>",
+            "author": "Author's name",
+            "bio": "",
+            "product": "",
+            "icon": "none"
+          }
+        },
+        "testimonial_zcfciy": {
+          "type": "testimonial",
+          "settings": {
+            "text": "<p>Add customer reviews and testimonials to showcase your store’s happy customers.</p>",
+            "author": "Author's name",
+            "bio": "",
+            "product": "",
+            "icon": "none"
+          }
+        },
+        "testimonial_kC9Yqg": {
+          "type": "testimonial",
+          "settings": {
+            "text": "<p>Add customer reviews and testimonials to showcase your store’s happy customers.</p>",
+            "author": "Author's name",
+            "bio": "",
+            "product": "",
+            "icon": "none"
+          }
+        },
+        "testimonial_cXtGJW": {
+          "type": "testimonial",
+          "settings": {
+            "text": "<p>Add customer reviews and testimonials to showcase your store’s happy customers.</p>",
+            "author": "Author's name",
+            "bio": "",
+            "product": "",
+            "icon": "none"
+          }
+        },
+        "testimonial_BbYAGX": {
+          "type": "testimonial",
+          "settings": {
+            "text": "<p>Add customer reviews and testimonials to showcase your store’s happy customers.</p>",
+            "author": "Author's name",
+            "bio": "",
+            "product": "",
+            "icon": "none"
+          }
+        }
+      },
+      "block_order": [
+        "testimonial_V7reLf",
+        "testimonial_cqfUgK",
+        "testimonial_zcfciy",
+        "testimonial_kC9Yqg",
+        "testimonial_cXtGJW",
+        "testimonial_BbYAGX"
+      ],
+      "name": "Testimonials",
+      "settings": {
+        "color_scheme": "",
+        "heading": "Testimonials",
+        "heading_size": "h1",
+        "heading_highlight_style": "none",
+        "subheading": "",
+        "description": "",
+        "text_size": "text-base",
+        "card_color_scheme": "",
+        "card_layout": "1",
+        "columns_desktop": 4,
+        "column_gap": "medium",
+        "enable_slider": true,
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "padding_top": 50,
+        "padding_bottom": 50,
+        "show_section_divider": false,
+        "divider_width": "fixed"
+      }
     }
   },
   "order": [
@@ -492,10 +514,10 @@
     "lookbook_cards_dnzy8U",
     "lookbook_slider_bNjMpY",
     "media_with_collection_fnHyrc",
-    "press_ffCijM",
     "product_list_with_details_6Kj6HM",
-    "product_tabs_iNHUzB",
     "products_showcase_BP7La9",
-    "scrolling_promotion_EYMq3q"
+    "scrolling_promotion_JDj9Qm",
+    "store_locator_bcaqdr",
+    "testimonials_NXxTT3"
   ]
 }
