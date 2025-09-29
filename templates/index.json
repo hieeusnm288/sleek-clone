@@ -1253,6 +1253,7 @@
         "image_WhkGrJ",
         "image_DHEfxw"
       ],
+      "disabled": true,
       "name": "t:sections.image-gallery.name",
       "settings": {
         "color_scheme": "",
