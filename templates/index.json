@@ -486,6 +486,7 @@
         "testimonial_cXtGJW",
         "testimonial_BbYAGX"
       ],
+      "disabled": true,
       "name": "Testimonials",
       "settings": {
         "color_scheme": "",
@@ -500,8 +501,58 @@
         "columns_desktop": 4,
         "column_gap": "medium",
         "enable_slider": false,
-        "columns_mobile": "1",
-        "swipe_on_mobile": true,
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 50,
+        "padding_bottom": 50,
+        "show_section_divider": false,
+        "divider_width": "fixed"
+      }
+    },
+    "video_hero_CeJJFj": {
+      "type": "video-hero",
+      "blocks": {
+        "subheading_Kckj83": {
+          "type": "subheading",
+          "settings": {
+            "subheading": "Add a tagline"
+          }
+        },
+        "heading_q3cVzL": {
+          "type": "heading",
+          "settings": {
+            "heading": "Video hero",
+            "heading_size": "hd1",
+            "heading_highlight_style": "none"
+          }
+        },
+        "button_C37TX4": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style": "btn--primary"
+          }
+        }
+      },
+      "block_order": [
+        "subheading_Kckj83",
+        "heading_q3cVzL",
+        "button_C37TX4"
+      ],
+      "name": "t:sections.video-hero.name",
+      "settings": {
+        "container": "full",
+        "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+        "description": "",
+        "video_height": "adapt",
+        "overlay_opacity": 70,
+        "enable_parallax": false,
+        "parallax_direction": "vertical",
+        "color_scheme": "",
+        "content_position": "middle-center",
+        "content_alignment": "center",
+        "video_mobile_height": "adapt",
         "padding_top": 50,
         "padding_bottom": 50,
         "show_section_divider": false,
@@ -518,6 +569,7 @@
     "products_showcase_BP7La9",
     "scrolling_promotion_JDj9Qm",
     "store_locator_bcaqdr",
-    "testimonials_NXxTT3"
+    "testimonials_NXxTT3",
+    "video_hero_CeJJFj"
   ]
 }
