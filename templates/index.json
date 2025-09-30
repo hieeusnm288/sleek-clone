@@ -312,143 +312,48 @@
         "divider_width": "fixed"
       }
     },
-    "image_width_text_columns_dCqaLV": {
-      "type": "image-width-text-columns",
+    "product_tabs_aX6r8r": {
+      "type": "product-tabs",
       "blocks": {
-        "column_TGt6cc": {
-          "type": "column",
+        "tab_YaaLac": {
+          "type": "tab",
           "settings": {
-            "image_width": "medium",
-            "title": "Column",
-            "heading_size": "h4",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post.<br> Add details on availability, style.</p>",
-            "text_size": "text-base"
+            "title": "Tab 1",
+            "collection": ""
           }
         },
-        "column_izmFMU": {
-          "type": "column",
+        "tab_9cNy8C": {
+          "type": "tab",
           "settings": {
-            "image_width": "medium",
-            "title": "Column",
-            "heading_size": "h4",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post.<br> Add details on availability, style.</p>",
-            "text_size": "text-base"
-          }
-        },
-        "column_Tn7P8p": {
-          "type": "column",
-          "settings": {
-            "image_width": "medium",
-            "title": "Column",
-            "heading_size": "h4",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post.<br> Add details on availability, style.</p>",
-            "text_size": "text-base"
-          }
-        },
-        "column_jJeJmJ": {
-          "type": "column",
-          "settings": {
-            "image_width": "medium",
-            "title": "Column",
-            "heading_size": "h4",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post.<br> Add details on availability, style.</p>",
-            "text_size": "text-base"
+            "title": "Tab 2",
+            "collection": ""
           }
         }
       },
       "block_order": [
-        "column_TGt6cc",
-        "column_izmFMU",
-        "column_Tn7P8p",
-        "column_jJeJmJ"
+        "tab_YaaLac",
+        "tab_9cNy8C"
       ],
-      "disabled": true,
-      "name": "t:sections.image-with-text-columns.presets.name",
-      "settings": {
-        "color_scheme": "",
-        "layout_gap": "medium",
-        "content_alignment": "center",
-        "image_position": "text_first",
-        "heading": "Image with text columns",
-        "heading_size": "h1",
-        "heading_highlight_style": "none",
-        "subheading": "Add a tag line",
-        "description": "",
-        "text_size": "text-base",
-        "column_alignment": "left",
-        "columns_desktop": 2,
-        "column_gap": "large",
-        "columns_mobile": "1",
-        "swipe_on_mobile": false,
-        "padding_top": 50,
-        "padding_bottom": 50,
-        "show_section_divider": false,
-        "divider_width": "fixed"
-      }
-    },
-    "lookbook_cards_CcLejm": {
-      "type": "lookbook-cards",
-      "blocks": {
-        "product_list_GJrAEM": {
-          "type": "product_list",
-          "settings": {
-            "product_list": [],
-            "heading": "Shop this look",
-            "heading_size": "h5"
-          }
-        },
-        "product_list_MXTGa7": {
-          "type": "product_list",
-          "settings": {
-            "product_list": [],
-            "heading": "Shop this look",
-            "heading_size": "h5"
-          }
-        },
-        "product_list_Fjpc8D": {
-          "type": "product_list",
-          "settings": {
-            "product_list": [],
-            "heading": "Shop this look",
-            "heading_size": "h5"
-          }
-        },
-        "product_list_Lap43x": {
-          "type": "product_list",
-          "settings": {
-            "product_list": [],
-            "heading": "Shop this look",
-            "heading_size": "h5"
-          }
-        }
-      },
-      "block_order": [
-        "product_list_GJrAEM",
-        "product_list_MXTGa7",
-        "product_list_Fjpc8D",
-        "product_list_Lap43x"
-      ],
-      "name": "t:sections.lookbook-cards.name",
+      "name": "t:sections.product-tabs.presets.name",
       "settings": {
         "color_scheme": "",
         "header_layout": "vertical",
-        "heading": "Lookbook cards",
+        "heading": "Product tabs",
         "heading_size": "h1",
         "heading_highlight_style": "none",
-        "subheading": "",
-        "description": "",
-        "description_size": "text-base",
+        "limit": 4,
+        "columns": 4,
+        "column_gap": "medium",
+        "row_gap": "inherit",
+        "grid_layout": "standard",
+        "pcard_image_ratio": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "show_all_button_on_top": false,
         "button_label": "",
         "button_link": "",
         "button_style": "btn--primary",
-        "show_button_on_section_heading": true,
-        "image_width": 148,
-        "columns": 3,
-        "column_gap": "medium",
-        "row_gap": "inherit",
-        "enable_slider": false,
-        "pcard_image_ratio": "",
-        "swipe_on_mobile": true,
+        "tabs_nav_style": "design-2",
         "padding_top": 50,
         "padding_bottom": 50,
         "show_section_divider": false,
@@ -462,7 +367,6 @@
     "image_comparison_4zF8Lt",
     "collapsible_tabs_gdC7Ye",
     "favorite_products_Ek83Di",
-    "image_width_text_columns_dCqaLV",
-    "lookbook_cards_CcLejm"
+    "product_tabs_aX6r8r"
   ]
 }
