@@ -418,6 +418,47 @@
         "show_section_divider": false,
         "divider_width": "fixed"
       }
+    },
+    "slideshow_PqFWRT": {
+      "type": "slideshow",
+      "blocks": {
+        "video_6RgnQw": {
+          "type": "video",
+          "settings": {
+            "color_scheme": "scheme-1",
+            "video": "shopify://files/videos/Video.mp4",
+            "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+            "video_description": "",
+            "image_overlay_opacity": 0,
+            "content_position": "middle-center",
+            "text_alignment": "center",
+            "title": "Video slide",
+            "heading_size": "hd1",
+            "subheading": "",
+            "description": "<p>Tell your brand's story through images</p>",
+            "description_size": "text-base",
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style": "btn--primary"
+          }
+        }
+      },
+      "block_order": [
+        "video_6RgnQw"
+      ],
+      "name": "t:sections.slideshow.name",
+      "settings": {
+        "container": "full",
+        "layout": "standard",
+        "slide_height": "large",
+        "show_dots": true,
+        "autoplay": false,
+        "autoplay_delay": 3,
+        "controls_position": "bottom",
+        "show_text_below": false,
+        "text_alignment_mobile": "center",
+        "accessibility_info": "Slideshow about our brand"
+      }
     }
   },
   "order": [
@@ -427,6 +468,7 @@
     "collapsible_tabs_gdC7Ye",
     "favorite_products_Ek83Di",
     "product_tabs_aX6r8r",
-    "lookbook_banner_NrQaCW"
+    "lookbook_banner_NrQaCW",
+    "slideshow_PqFWRT"
   ]
 }
