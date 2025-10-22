@@ -428,6 +428,7 @@
             "color_scheme": "scheme-1",
             "video": "shopify://files/videos/Video.mp4",
             "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+            "cover_image": "shopify://shop_images/Rectangle_4394.png",
             "video_description": "",
             "image_overlay_opacity": 0,
             "content_position": "middle-center",
@@ -459,6 +460,68 @@
         "text_alignment_mobile": "center",
         "accessibility_info": "Slideshow about our brand"
       }
+    },
+    "scrolling_promotion_cf7KDF": {
+      "type": "scrolling-promotion",
+      "blocks": {
+        "image_J4Eh7V": {
+          "type": "image",
+          "settings": {
+            "image_height": 120,
+            "image_rounded": false,
+            "image_link": "",
+            "image_height_mobile": 90
+          }
+        },
+        "image_7p8RrP": {
+          "type": "image",
+          "settings": {
+            "image_height": 120,
+            "image_rounded": false,
+            "image_link": "",
+            "image_height_mobile": 90
+          }
+        },
+        "image_q9CLNy": {
+          "type": "image",
+          "settings": {
+            "image_height": 120,
+            "image_rounded": false,
+            "image_link": "",
+            "image_height_mobile": 90
+          }
+        },
+        "image_DneWUg": {
+          "type": "image",
+          "settings": {
+            "image_height": 120,
+            "image_rounded": false,
+            "image_link": "",
+            "image_height_mobile": 90
+          }
+        }
+      },
+      "block_order": [
+        "image_J4Eh7V",
+        "image_7p8RrP",
+        "image_q9CLNy",
+        "image_DneWUg"
+      ],
+      "disabled": true,
+      "name": "t:sections.scrolling-promotion.presets.name",
+      "settings": {
+        "color_scheme": "",
+        "vertical_alignment": "center",
+        "direction": "left",
+        "pause_on_hover": true,
+        "speed": 1,
+        "h_spacing": 50,
+        "v_spacing": 10,
+        "padding_top": 40,
+        "padding_bottom": 40,
+        "show_divider": false,
+        "divider_layout": "vertical"
+      }
     }
   },
   "order": [
@@ -469,6 +532,7 @@
     "favorite_products_Ek83Di",
     "product_tabs_aX6r8r",
     "lookbook_banner_NrQaCW",
-    "slideshow_PqFWRT"
+    "slideshow_PqFWRT",
+    "scrolling_promotion_cf7KDF"
   ]
 }
