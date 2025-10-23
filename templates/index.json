@@ -319,7 +319,7 @@
           "type": "tab",
           "settings": {
             "title": "Tab 1",
-            "collection": ""
+            "collection": "table"
           }
         },
         "tab_9cNy8C": {
@@ -358,107 +358,6 @@
         "padding_bottom": 50,
         "show_section_divider": false,
         "divider_width": "fixed"
-      }
-    },
-    "lookbook_banner_NrQaCW": {
-      "type": "lookbook-banner",
-      "blocks": {
-        "product_aQTpbn": {
-          "type": "product",
-          "settings": {
-            "product": "lorem-ipsum-is-simply-dummy-test-page-2",
-            "top": 45,
-            "left": 30,
-            "top_mobile": 45,
-            "left_mobile": 30
-          }
-        },
-        "product_VrR8Ya": {
-          "type": "product",
-          "settings": {
-            "product": "",
-            "top": 50,
-            "left": 70,
-            "top_mobile": 50,
-            "left_mobile": 70
-          }
-        },
-        "product_34pfL6": {
-          "type": "product",
-          "settings": {
-            "product": "",
-            "top": 62,
-            "left": 43,
-            "top_mobile": 62,
-            "left_mobile": 43
-          }
-        }
-      },
-      "block_order": [
-        "product_aQTpbn",
-        "product_VrR8Ya",
-        "product_34pfL6"
-      ],
-      "name": "t:sections.lookbook-banner.presets.name",
-      "settings": {
-        "color_scheme": "",
-        "heading": "Lookbook banner",
-        "heading_size": "h1",
-        "heading_highlight_style": "none",
-        "subheading": "",
-        "description": "",
-        "description_size": "text-base",
-        "annotation_color": "dark",
-        "scrolling_direction": "left",
-        "pause_on_hover": true,
-        "scrolling_speed": 1,
-        "scrolling_text_color": "#000000",
-        "padding_top": 50,
-        "padding_bottom": 50,
-        "show_section_divider": false,
-        "divider_width": "fixed"
-      }
-    },
-    "slideshow_PqFWRT": {
-      "type": "slideshow",
-      "blocks": {
-        "video_6RgnQw": {
-          "type": "video",
-          "settings": {
-            "color_scheme": "scheme-1",
-            "video": "shopify://files/videos/Video.mp4",
-            "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
-            "cover_image": "shopify://shop_images/Rectangle_4394.png",
-            "video_description": "",
-            "image_overlay_opacity": 0,
-            "content_position": "middle-center",
-            "text_alignment": "center",
-            "title": "Video slide",
-            "heading_size": "hd1",
-            "subheading": "",
-            "description": "<p>Tell your brand's story through images</p>",
-            "description_size": "text-base",
-            "button_label": "Button label",
-            "button_link": "",
-            "button_style": "btn--primary"
-          }
-        }
-      },
-      "block_order": [
-        "video_6RgnQw"
-      ],
-      "name": "t:sections.slideshow.name",
-      "settings": {
-        "container": "full",
-        "layout": "standard",
-        "slide_height": "large",
-        "show_dots": true,
-        "autoplay": false,
-        "autoplay_delay": 3,
-        "controls_position": "bottom",
-        "show_text_below": false,
-        "text_alignment_mobile": "center",
-        "accessibility_info": "Slideshow about our brand"
       }
     },
     "scrolling_promotion_cf7KDF": {
@@ -531,8 +430,6 @@
     "collapsible_tabs_gdC7Ye",
     "favorite_products_Ek83Di",
     "product_tabs_aX6r8r",
-    "lookbook_banner_NrQaCW",
-    "slideshow_PqFWRT",
     "scrolling_promotion_cf7KDF"
   ]
 }
