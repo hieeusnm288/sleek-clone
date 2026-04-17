@@ -9,40 +9,6 @@
  */
 {
   "sections": {
-    "featured_collection_3i466J": {
-      "type": "featured-collection",
-      "disabled": true,
-      "name": "t:sections.featured-collection.presets.name",
-      "settings": {
-        "color_scheme": "",
-        "header_layout": "vertical",
-        "heading": "Featured collection",
-        "heading_size": "h1",
-        "heading_highlight_style": "none",
-        "subheading": "",
-        "description": "",
-        "text_size": "text-base",
-        "show_collection_description": false,
-        "collection": "",
-        "limit": 8,
-        "columns": 4,
-        "column_gap": "medium",
-        "row_gap": "inherit",
-        "grid_layout": "metro",
-        "enable_slider": false,
-        "controls_position": "inside",
-        "pcard_image_ratio": "",
-        "columns_mobile": "2",
-        "swipe_on_mobile": false,
-        "show_all_button_on_top": false,
-        "button_label": "",
-        "button_style": "btn--primary",
-        "padding_top": 50,
-        "padding_bottom": 50,
-        "show_section_divider": false,
-        "divider_width": "fixed"
-      }
-    },
     "featured_product_3hCt7R": {
       "type": "featured-product",
       "blocks": {
@@ -128,10 +94,9 @@
         "icon_with_text_EUqT7L",
         "addons_a97dgw"
       ],
-      "disabled": true,
       "name": "t:sections.featured-product.presets.name",
       "settings": {
-        "product": "decor-1",
+        "product": "lorem-ipsum-is-simply-dummy-test-page-1",
         "color_scheme": "",
         "enable_sticky_info": true,
         "media_size": "large",
@@ -424,7 +389,6 @@
     }
   },
   "order": [
-    "featured_collection_3i466J",
     "featured_product_3hCt7R",
     "image_comparison_4zF8Lt",
     "collapsible_tabs_gdC7Ye",
