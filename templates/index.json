@@ -9,322 +9,6 @@
  */
 {
   "sections": {
-    "featured_product_3hCt7R": {
-      "type": "featured-product",
-      "blocks": {
-        "badges_n6M8aQ": {
-          "type": "badges",
-          "settings": {
-            "show_soldout_badge": true,
-            "show_sale_badge": true,
-            "sale_badge_type": "percentage"
-          }
-        },
-        "title_ppjErn": {
-          "type": "title",
-          "settings": {
-            "heading_size": "h1"
-          }
-        },
-        "price_JzVe9t": {
-          "type": "price",
-          "settings": {}
-        },
-        "description_37BGgK": {
-          "type": "description",
-          "settings": {}
-        },
-        "inventory_RnaqdY": {
-          "type": "inventory",
-          "settings": {
-            "text_style": "body",
-            "inventory_threshold": 10,
-            "show_inventory_quantity": true
-          }
-        },
-        "variant_picker_k7D8gy": {
-          "type": "variant_picker",
-          "settings": {
-            "picker_type": "button",
-            "swatch_type": "color_swatch",
-            "button_style": "standard",
-            "button_size": 40,
-            "size_title": "Size",
-            "size_chart_from_page": ""
-          }
-        },
-        "buy_buttons_XH3tTR": {
-          "type": "buy_buttons",
-          "settings": {
-            "show_quantity_selector": true,
-            "show_dynamic_checkout": true,
-            "show_gift_card_recipient": true
-          }
-        },
-        "icon_with_text_EUqT7L": {
-          "type": "icon-with-text",
-          "settings": {
-            "layout": "horizontal",
-            "title_font": "body",
-            "title_size": "text-base",
-            "icon_1": "package",
-            "heading_1": "Orders over $50 ship free",
-            "icon_2": "currency-circle-dollar",
-            "heading_2": "30 day returns",
-            "icon_3": "star-four",
-            "heading_3": "Heading"
-          }
-        },
-        "addons_a97dgw": {
-          "type": "addons",
-          "settings": {
-            "show_share": true,
-            "show_ask_question": true
-          }
-        }
-      },
-      "block_order": [
-        "badges_n6M8aQ",
-        "title_ppjErn",
-        "price_JzVe9t",
-        "description_37BGgK",
-        "inventory_RnaqdY",
-        "variant_picker_k7D8gy",
-        "buy_buttons_XH3tTR",
-        "icon_with_text_EUqT7L",
-        "addons_a97dgw"
-      ],
-      "name": "t:sections.featured-product.presets.name",
-      "settings": {
-        "product": "lorem-ipsum-is-simply-dummy-test-page-1",
-        "color_scheme": "",
-        "enable_sticky_info": true,
-        "media_size": "large",
-        "mobile_thumbnails": "hide",
-        "enable_image_zoom": true,
-        "enable_video_looping": false,
-        "padding_top": 50,
-        "padding_bottom": 50,
-        "show_section_divider": false,
-        "divider_width": "fixed"
-      }
-    },
-    "image_comparison_4zF8Lt": {
-      "type": "image-comparison",
-      "blocks": {
-        "image_gznmxr": {
-          "type": "image",
-          "settings": {
-            "heading": "Before",
-            "color_scheme": ""
-          }
-        },
-        "image_NxBx9U": {
-          "type": "image",
-          "settings": {
-            "heading": "After",
-            "color_scheme": ""
-          }
-        }
-      },
-      "block_order": [
-        "image_gznmxr",
-        "image_NxBx9U"
-      ],
-      "disabled": true,
-      "name": "t:sections.image-comparison.presets.name",
-      "settings": {
-        "container": "fixed",
-        "color_scheme": "",
-        "header_layout": "right-column",
-        "heading": "Before/after image slider",
-        "heading_size": "h1",
-        "heading_highlight_style": "none",
-        "subheading": "",
-        "description": "",
-        "description_size": "text-base",
-        "button_label": "",
-        "button_link": "",
-        "button_style": "btn--primary",
-        "direction": "horizontal",
-        "image_height": "adapt",
-        "image_heading_style": "plain",
-        "product": "",
-        "padding_top": 50,
-        "padding_bottom": 50,
-        "show_section_divider": false,
-        "divider_width": "fixed"
-      }
-    },
-    "collapsible_tabs_gdC7Ye": {
-      "type": "collapsible-tabs",
-      "blocks": {
-        "collapsible_item_PfpGxL": {
-          "type": "collapsible_item",
-          "settings": {
-            "icon": "none",
-            "heading": "Collapsible tab heading",
-            "content": "<p>Fill in the text content of the collapsible item here. You can provide details and explanation for the question here.</p>",
-            "custom_liquid": "",
-            "page": "",
-            "open": false
-          }
-        },
-        "collapsible_item_JPtjPg": {
-          "type": "collapsible_item",
-          "settings": {
-            "icon": "none",
-            "heading": "Collapsible tab heading",
-            "content": "<p>Fill in the text content of the collapsible item here. You can provide details and explanation for the question here.</p>",
-            "custom_liquid": "",
-            "page": "",
-            "open": false
-          }
-        },
-        "collapsible_item_jP8p7R": {
-          "type": "collapsible_item",
-          "settings": {
-            "icon": "none",
-            "heading": "Collapsible tab heading",
-            "content": "<p>Fill in the text content of the collapsible item here. You can provide details and explanation for the question here.</p>",
-            "custom_liquid": "",
-            "page": "",
-            "open": false
-          }
-        }
-      },
-      "block_order": [
-        "collapsible_item_PfpGxL",
-        "collapsible_item_JPtjPg",
-        "collapsible_item_jP8p7R"
-      ],
-      "disabled": true,
-      "name": "t:sections.collapsible-tabs.presets.name",
-      "settings": {
-        "container": "fixed",
-        "color_scheme": "",
-        "header_layout": "standing-column",
-        "heading": "Collapsible tabs",
-        "heading_size": "h1",
-        "heading_highlight_style": "none",
-        "subheading": "",
-        "description": "",
-        "text_size": "text-base",
-        "button_label": "",
-        "button_link": "",
-        "button_style": "btn--primary",
-        "column_gap": "large",
-        "row_gap": "inherit",
-        "item_style": "card",
-        "item_color_scheme": "",
-        "item_heading_font": "heading",
-        "item_heading_size": "h4",
-        "item_icon_size": "extra-large",
-        "padding_top": 50,
-        "padding_bottom": 50,
-        "show_section_divider": false,
-        "divider_width": "fixed"
-      }
-    },
-    "favorite_products_Ek83Di": {
-      "type": "favorite-products",
-      "blocks": {
-        "product_WkfaLA": {
-          "type": "product",
-          "settings": {
-            "product": "",
-            "text": "<p>Add customer reviews and testimonials to showcase your store’s happy customers.</p>",
-            "author": "Author's name",
-            "bio": ""
-          }
-        },
-        "product_rDVCbj": {
-          "type": "product",
-          "settings": {
-            "product": "",
-            "text": "<p>Add customer reviews and testimonials to showcase your store’s happy customers.</p>",
-            "author": "Author's name",
-            "bio": ""
-          }
-        },
-        "product_6NG78U": {
-          "type": "product",
-          "settings": {
-            "product": "",
-            "text": "<p>Add customer reviews and testimonials to showcase your store’s happy customers.</p>",
-            "author": "Author's name",
-            "bio": ""
-          }
-        }
-      },
-      "block_order": [
-        "product_WkfaLA",
-        "product_rDVCbj",
-        "product_6NG78U"
-      ],
-      "disabled": true,
-      "name": "t:sections.favorite-products.name",
-      "settings": {
-        "color_scheme": "",
-        "heading": "Favorite products",
-        "heading_size": "h1",
-        "heading_highlight_style": "none",
-        "pcard_image_ratio": "",
-        "image_ratio": "adapt",
-        "padding_top": 50,
-        "padding_bottom": 50,
-        "show_section_divider": false,
-        "divider_width": "fixed"
-      }
-    },
-    "product_tabs_aX6r8r": {
-      "type": "product-tabs",
-      "blocks": {
-        "tab_YaaLac": {
-          "type": "tab",
-          "settings": {
-            "title": "Tab 1",
-            "collection": "table"
-          }
-        },
-        "tab_9cNy8C": {
-          "type": "tab",
-          "settings": {
-            "title": "Tab 2",
-            "collection": ""
-          }
-        }
-      },
-      "block_order": [
-        "tab_YaaLac",
-        "tab_9cNy8C"
-      ],
-      "name": "t:sections.product-tabs.presets.name",
-      "settings": {
-        "color_scheme": "",
-        "header_layout": "vertical",
-        "heading": "Product tabs",
-        "heading_size": "h1",
-        "heading_highlight_style": "none",
-        "limit": 4,
-        "columns": 4,
-        "column_gap": "medium",
-        "row_gap": "inherit",
-        "grid_layout": "standard",
-        "pcard_image_ratio": "",
-        "columns_mobile": "1",
-        "swipe_on_mobile": true,
-        "show_all_button_on_top": false,
-        "button_label": "",
-        "button_link": "",
-        "button_style": "btn--primary",
-        "tabs_nav_style": "design-2",
-        "padding_top": 50,
-        "padding_bottom": 50,
-        "show_section_divider": false,
-        "divider_width": "fixed"
-      }
-    },
     "scrolling_promotion_cf7KDF": {
       "type": "scrolling-promotion",
       "blocks": {
@@ -386,14 +70,67 @@
         "show_divider": false,
         "divider_layout": "vertical"
       }
+    },
+    "collage_tabs_rYUmNn": {
+      "type": "collage-tabs",
+      "blocks": {
+        "tab_4JHEQP": {
+          "type": "tab",
+          "settings": {
+            "content_color_scheme": "",
+            "navigation_title": "Tab 1",
+            "image": "shopify://shop_images/f9c31163990df48590c479dc062ddd16.jpg",
+            "heading": "Đây là Heading",
+            "heading_size": "h1",
+            "heading_highlight_style": "none",
+            "subheading": "",
+            "description": "<p>Fill in the text content of the tab item here. You can provide details information tab item here.</p>",
+            "text_size": "text-base",
+            "text_alignment": "center",
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style": "btn--primary"
+          }
+        },
+        "tab_inNqgn": {
+          "type": "tab",
+          "settings": {
+            "content_color_scheme": "",
+            "navigation_title": "Tab 2",
+            "heading": "Collage tab heading",
+            "heading_size": "h1",
+            "heading_highlight_style": "none",
+            "subheading": "",
+            "description": "<p>Fill in the text content of the tab item here. You can provide details information tab item here.</p>",
+            "text_size": "text-base",
+            "text_alignment": "center",
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style": "btn--primary"
+          }
+        }
+      },
+      "block_order": [
+        "tab_4JHEQP",
+        "tab_inNqgn"
+      ],
+      "name": "t:sections.collage-tabs.presets.name",
+      "settings": {
+        "color_scheme": "",
+        "heading_size": "h4",
+        "desktop_navigation_alignment": "center",
+        "desktop_image_position": "left",
+        "desktop_image_width": 50,
+        "image_aspect_ratio": "adapt",
+        "padding_top": 50,
+        "padding_bottom": 50,
+        "show_section_divider": false,
+        "divider_width": "fixed"
+      }
     }
   },
   "order": [
-    "featured_product_3hCt7R",
-    "image_comparison_4zF8Lt",
-    "collapsible_tabs_gdC7Ye",
-    "favorite_products_Ek83Di",
-    "product_tabs_aX6r8r",
-    "scrolling_promotion_cf7KDF"
+    "scrolling_promotion_cf7KDF",
+    "collage_tabs_rYUmNn"
   ]
 }
