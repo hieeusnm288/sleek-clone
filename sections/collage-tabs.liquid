@@ -104,7 +104,9 @@
                     {%- assign motion_delay = motion_delay | plus: 50 -%}
                   {%- endif -%}
                   {%- if block.settings.heading != blank -%}
-                    <h2 class="rich-text__heading inline-richtext {{ block.settings.heading_size }}">
+                    <h2 class="rich-text__heading inline-richtext {{ block.settings.heading_size }}"
+                    style="color: {{ block.settings.heading_color }}"
+                    >
                       <motion-element class="block" data-motion="fade-up" data-motion-delay="{{ motion_delay }}">
                         {% render 'highlight-text',
                           text: block.settings.heading,
@@ -364,6 +366,12 @@
           "id": "heading",
           "label": "t:sections.all.heading.label",
           "default": "Collapsible tabs"
+        },
+        {
+          "type": "color",
+          "id": "heading_color",
+          "label": "Color Title",
+          "default": "#ffffff"
         },
         {
           "type": "select",
